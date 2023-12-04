@@ -126,9 +126,9 @@ Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (NLTK):
 - -> Or is it neccessary to have a database where we persist our documents - so all our team members work on the "same documents"? Or would it just be a nice-to-have feature?
 - Generally: What is the minimum amount of documents we have to process? Is it okay if we focus on mails, tales and short stories for our sentiment analysis? -> Background: Scientific Papers for example don't really have a sentiment.
 
--When to communicate to Moritz Platzer what kind of fields within the "Properties" we want to display on bigdata4biz? I think we will go for "sentiment_score" and "sentiment" but depending on our implementation we could add more things like "median_sentiment_score" or how accurate the score or sentiment is. For example: If the sentiment_score for each page alternates to heavily (-1 -> +1 -> 0,5 -> +1) we could add the disclaimer "not accurate"
+- When to communicate to Moritz Platzer what kind of fields within the "Properties" we want to display on bigdata4biz? I think we will go for "sentiment_score" and "sentiment" but depending on our implementation we could add more things like "median_sentiment_score" or how accurate the score or sentiment is. For example: If the sentiment_score for each page alternates to heavily (-1 -> +1 -> 0,5 -> +1) we could add the disclaimer "not accurate"
 
--Any more questions from your group? 
+- Any more questions from your group? 
 
 # What is left to do to finish our first iteration: 
 - Create a data lake with documents that meet our needs and meet the needs of Mr.Stäbler (see questions above)
