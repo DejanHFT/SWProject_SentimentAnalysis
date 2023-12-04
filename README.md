@@ -7,7 +7,7 @@ Repository of Group 1.
 - -> TextBlob and NLTK: From my experience suits better for our use case
 - -> library is specialized for social media texts 
 
--In order to test out the implementation by yourself you just have to adjust the path accordingly to the path were the documents are located on your machine
+- In order to test out the implementation by yourself you just have to adjust the path accordingly to the path were the documents are located on your machine
 -When you run the python script now the sentiment analysis is being processed page-wise 
 -At the end the average sentiment is calculated and printed to the console as well before the next document gets processed 
 - -> this is all adjustable; we can also analyse the sentiment of the whole text or split it up even further; maybe we can experiment here a little more
