@@ -1,5 +1,11 @@
 # SWProject_TF-IDF
-Software Project with Mr. Stäbler. Repository of Group 1. 
+Software Project with Mr. Stäbler. 
+Repository of Group 1. 
+
+# Insights about the example implementation 
+- currently two sentiment analysis are being processed simultaneosly
+-> TextBlob and NLTK: From my experience suits better for our use case -> library is specialized for social media texts 
+- 
 
 # Console output of example implementation 
 Sentiment Score for 1. The Tell Tale Heart  Author Edgar Allan Poe.pdf, Page 1 (TextBlob): 0.01964699074074075
