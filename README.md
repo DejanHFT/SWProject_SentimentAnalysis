@@ -1,4 +1,4 @@
-# SWProject_TF-IDF
+# SWProject_Sentiment_Analysis
 Software Project with Mr. Stäbler. 
 Repository of Group 1. 
 
