@@ -4,8 +4,13 @@ Repository of Group 1.
 
 # Insights about the example implementation 
 - currently two sentiment analysis are being processed simultaneosly
--> TextBlob and NLTK: From my experience suits better for our use case -> library is specialized for social media texts 
-- 
+- -> TextBlob and NLTK: From my experience suits better for our use case
+- -> library is specialized for social media texts 
+
+-In order to test out the implementation by yourself you just have to adjust the path accordingly to the path were the documents are located on your machine
+-When you run the python script now the sentiment analysis is being processed page-wise 
+-At the end the average sentiment is calculated and printed to the console as well before the next document gets processed 
+- -> this is all adjustable; we can also analyse the sentiment of the whole text or split it up even further; maybe we can experiment here a little more
 
 # Console output of example implementation 
 Sentiment Score for 1. The Tell Tale Heart  Author Edgar Allan Poe.pdf, Page 1 (TextBlob): 0.01964699074074075
@@ -115,3 +120,21 @@ Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf, Page 23 (NLTK)
 
 Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (TextBlob): 0.06021907035153155
 Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (NLTK): -0.1882173913043478
+
+# Questions for Mr. Stäbler:
+- Is it okay if we process documents that are persisted on our local machine? E.g. 1000 pdf-documents, one of us has downloaded.
+- -> Or is it neccessary to have a database where we persist our documents - so all our team members work on the "same documents"? Or would it just be a nice-to-have feature?
+- Generally: What is the minimum amount of documents we have to process? Is it okay if we focus on mails, tales and short stories for our sentiment analysis? -> Background: Scientific Papers for example don't really have a sentiment.
+
+-When to communicate to Moritz Platzer what kind of fields within the "Properties" we want to display on bigdata4biz? I think we will go for "sentiment_score" and "sentiment" but depending on our implementation we could add more things like "median_sentiment_score" or how accurate the score or sentiment is. For example: If the sentiment_score for each page alternates to heavily (-1 -> +1 -> 0,5 -> +1) we could add the disclaimer "not accurate"
+
+-Any more questions from your group? 
+
+# What is left to do to finish our first iteration: 
+- Create a data lake with documents that meet our needs and meet the needs of Mr.Stäbler (see questions above)
+- (think of the algorithm to calculate the sentiment; how to split up the text in a senseful way; what extras can you think of; what are best practices when analysing the sentiment score? (not really needed for our first prototype if you want to but would be really nice to have))
+- Establish connection from our script to the data lake (very easy or already done with adjusting the path, if its okay that the documents are saved on our local machine)
+- If we can save documents on local machine -> code to create .meta folder within that directory and to create the .json files within that .meta folder is missing
+- If we can't save documents on our local machine -> access the documents and save them locally and then proceed with: "code to create .meta folder within that directory and to create the .json files within that .meta folder is missing"
+- Upload the the documents via the bd4b-plugin -> maybe we can also implement that within our script. In order to not having to do it manually via command line
+
