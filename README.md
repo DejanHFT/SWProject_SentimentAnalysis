@@ -1,7 +1,7 @@
 # SWProject_TF-IDF
 Software Project with Mr. Stäbler. Repository of Group 1. 
 
-#Console output of example implementation 
+# Console output of example implementation 
 Sentiment Score for 1. The Tell Tale Heart  Author Edgar Allan Poe.pdf, Page 1 (TextBlob): 0.01964699074074075
 Sentiment Score for 1. The Tell Tale Heart  Author Edgar Allan Poe.pdf, Page 1 (NLTK): -0.9059
 
