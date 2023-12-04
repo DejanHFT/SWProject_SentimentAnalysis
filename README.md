@@ -121,7 +121,7 @@ Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf, Page 23 (NLTK)
 Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (TextBlob): 0.06021907035153155
 Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (NLTK): -0.1882173913043478
 
-# Questions for Mr. Stäbler:
+# Questions for Mr. Stäbler
 - Is it okay if we process documents that are persisted on our local machine? E.g. 1000 pdf-documents, one of us has downloaded.
 - -> Or is it neccessary to have a database where we persist our documents - so all our team members work on the "same documents"? Or would it just be a nice-to-have feature?
 - Generally: What is the minimum amount of documents we have to process? Is it okay if we focus on mails, tales and short stories for our sentiment analysis? -> Background: Scientific Papers for example don't really have a sentiment.
@@ -130,7 +130,7 @@ Average Sentiment Score for 3. The Willows Author Algernon Blackwood.pdf (NLTK):
 
 - Any more questions from your group? 
 
-# What is left to do to finish our first iteration: 
+# What is left to do to finish our first iteration
 - Create a data lake with documents that meet our needs and meet the needs of Mr.Stäbler (see questions above)
 - (think of the algorithm to calculate the sentiment; how to split up the text in a senseful way; what extras can you think of; what are best practices when analysing the sentiment score? (not really needed for our first prototype if you want to but would be really nice to have))
 - Establish connection from our script to the data lake (very easy or already done with adjusting the path, if its okay that the documents are saved on our local machine)
