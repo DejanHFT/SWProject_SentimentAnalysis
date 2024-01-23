@@ -1,0 +1,10 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+What is a Vector? What is a Tensor? And how are these two things used in AI and processor design?,DJSpacedude,https://www.reddit.com/r/askscience/comments/6td77u/what_is_a_vector_what_is_a_tensor_and_how_are/,23,35,"I don't have a math background which makes understanding the concepts of Vectors and Tensors difficult. However I have a strong interest in tech and that makes me curious as to why Nvidia's newest Tesla compute card has tensor math processor cores included, quite a lot of them. There are also several other companies working on processors specific to calculating tensor math, all for use in AI research. That leads to a lot of questions.
+
+What exactly is a Vector? The definition is ""an object with Direction and Magnitude"". Direction is fairly obvious, but how does Magnitude relate to reality?
+
+What exactly is a Tensor? I've seen several definitions, including ""an object that linearly transforms one Vector into another"" and ""an object with two Directions and a Magnitude"".
+
+And finally, how does Tensor math relate to AI research and things like self-driving cars?
+
+A note: This should probably have multiple flairs, but I don't think that's possible."

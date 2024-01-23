@@ -1,0 +1,8 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"How does artificial intelligence programming differ from ""traditional"" programming?",Me_for_President,https://www.reddit.com/r/askscience/comments/25o6pl/how_does_artificial_intelligence_programming/,10,2,"In ""traditional"" programming, there's lots of control structures like IFs, ELSEs, WHILEs, CASEs, etc to decide what to do. 
+
+I'm curious if artificial intelligence programming looks more or less like that, or if there is a significant difference. 
+
+For example, if we consider a self-driving car, there are so many millions of complex measurements being considered and analyzed, it seems impossible to write traditional control structures for everything. But, maybe that's how it's done and is why it's taking so long to get to that point. 
+
+Edit: perhaps a simpler example (than an autonomous car) is video game AI: I swing a sword, the AI responds a certain way. What do the control structures for the AI's response look like?"

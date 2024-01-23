@@ -1,0 +1,4 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Can an FPGA (Field Programmable Gate Array) change its hardware mid-computation?,FakeNewsFlash,https://www.reddit.com/r/askscience/comments/cwfi5j/can_an_fpga_field_programmable_gate_array_change/,11,10,"Maybe the premise of my question is incorrect, sorry I’m new to the concept of FPGA’s. 
+
+Say you had an AI problem that you were writing code for with Python on an FPGA as the hardware. Could the Python script make calls to the HDL (hardware description language) to change the hardware while its solving the problem, and vice versa? Like if you wanted the software to optimize the hardware during certain parts of the problem, and the other way around."

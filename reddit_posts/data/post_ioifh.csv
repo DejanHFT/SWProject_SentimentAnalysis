@@ -1,0 +1,9 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"Understanding of language by a computer, couldn't we make it work through linguistics?",kidseven,https://www.reddit.com/r/askscience/comments/ioifh/understanding_of_language_by_a_computer_couldnt/,25,25,"Let's first define understanding of language. For me, if a computer can take X number of sentences and group them by some sort of similarity in nature of those statements, that's a first step towards understanding. 
+
+So my point is
+-We understand a lot about the nature of sentence structure, and linguistics is pretty advanced in general.
+-We have only a limited amount of words, and each of those words only has a limited amount of possible roles in any sentence.
+- Each of those words will only have a limited amount of related words, synonyms (did vs made happen), or words that belong in same groups (strawberry, chocolate - dessert group)
+
+So would it not be possible to write a program that will recognize the similarity between ""I love skiing, but I always break my legs"" and ""Oral sex is great, but my girlfriend thinks it's only great on special occasions""?"

@@ -1,0 +1,12 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"Why does COVID-19 location-tracking apps (e.g. CA Notify) only track positive test results, and not both positive and negative test results?",kodyamour,https://www.reddit.com/r/askscience/comments/l4wx76/why_does_covid19_locationtracking_apps_eg_ca/,5,5,"When I say ""COVID-19 location-tracking apps,"" I am referring to any app that tracks the location history of your phone alongside other phones with that app installed (e.g. CA Notify). These apps then allow you to submit positive test results, so that everyone who you interacted with prior can be notified that they might have COVID-19 and should quarantine. This is my general understanding of what the purpose of these apps are.
+
+I just tested negative for COVID-19, but CA Notify will only allow me to submit data if the results are positive. This seems inefficient... Why not gather more data? Why gratuitously decide to not collect info?
+
+I understand why CA Notify might not want negative test results - they don't really mean anything to the people who previously interacted with, considering the people who you previously interacted with also interacted with dozens of other people during that time and could still test positive even though you tested negative...
+
+But then again, many people have these apps, and many people carry their phones. Knowing that 50% of the people you interacted with tested negative is much better than knowing that 24% of the people you interacted with tested negative. The more you know how much you are NOT interacting with the virus, the more you can understand about who is infection, right? I just feel like more data makes data easier to look at, but maybe I'm wrong.
+
+A negative result is more information than nothing. I don't understand why we are not tracking this and using some AI and machine learning or something. I'm sure we could find ways to give weight to who is MORE likely to have COVID-19 than others. This doesn't seem hard to add to an app (imo)...
+
+What do you all think?"

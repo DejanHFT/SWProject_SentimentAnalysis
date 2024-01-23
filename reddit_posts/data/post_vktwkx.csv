@@ -1,0 +1,6 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Are there good case studies of neural net interpretation leading to novel scientific theory/insight?,Laddenvore,https://www.reddit.com/r/askscience/comments/vktwkx/are_there_good_case_studies_of_neural_net/,3,5,"To clarify my question with a (semi) made up example: say we trained a DL model to take some input data to predict some outcome (eg. amino acid sequence to predict protein conformation). Say we also have very little idea how to relate the outcome to the predictors. Then we did some form of interpretability on the DL model and this led to novel theory/insight (eg. certain amino acid subsequences are highly likely to appear on the surface of the protein once it is folded). 
+
+Are there good case studies of this sort of thing happening? Links to papers would be super appreciated.
+
+(Disclaimer: I know very little biochemistry so my example might be wrong/nonsense/known without DL)"

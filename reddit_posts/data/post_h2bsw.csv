@@ -1,0 +1,20 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Public Raw Data resources ?,vade,https://www.reddit.com/r/askscience/comments/h2bsw/public_raw_data_resources/,6,7,"Hello /Askscience. This one may be weird, so bear with me. 
+
+I am an visual artist and programmer who is working on an upcoming realtime performance video piece. Rather than make up bullshit scientific read outs, I would love to find some really great public, open resources of raw data and the like that I can incorporate into my visuals. I write my own software and effects, so I could bullshit some displays, but I find that those tend to be more contrived, and the language of real science much more compelling. 
+
+So, uh, what am I looking for? For example, I was searching stellar spectral analysis info I stumbled on some orbital tracking info for a lunar reconnaissance orbiter mission:
+
+http://pds-geosciences.wustl.edu/lro/lro-l-rss-1-tracking-v1/lrors_0001/data/range/lro_no_01/7105_200910010047.npt (there is a whole slew of them).
+
+Awesome text files with numerical data, entries for table row/column headers describing the format and units, etc. That is great, but these kind of resources are hard for me as a layman to stumble on. 
+
+If you folks know of any resources for raw data like this (preferably raw, plaintext documents?) for the fields of Astrophysics, Sub-Atomic Physics, Artificial Intelligence I would be really grateful. Even just search terms, or general directions to resources. I know this is rather broad.
+
+Videos can be ok but I find a lot of them are computer renderings, and tend to be very poor quality (visually, ie, resolution is small, and highly compressed) and also very short. Tunneling electron microscopy videos are awesome, but finding good quality ones is surprisingly difficult, most have water-marks, etc.
+
+I'd prefer to get the data, instrumentation readouts in some text form (pdt, plaintext, etc) so I can visualize it myself, and take some cues from it, and riff off of it etc, rather than have literal videos from say, uh, Nasa.
+
+If you are curious what I am making, its a sort of audio/video documentary of the awakening of an other-worldy AI that has lost its way, finding itself on a sort of post-apocalyptic earth like planet, trying to make sense of its surroundings, and recall its purpose, delving through time/space for clues. Thus, spectral analysis of surroundings, neural heuristics for determining actions to take. Admittedly, this is all very abstract and kind of weird. :)
+
+Thanks for reading this, any help is greatly appreciated."

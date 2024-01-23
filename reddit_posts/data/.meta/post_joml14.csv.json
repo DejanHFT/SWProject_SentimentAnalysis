@@ -1,0 +1,15 @@
+{
+  "title": "TIL that one of the branches of AI sets two opposing networks against each other where one network acts like a counterfeiter, and the other network acts like an officer trying to spot fakes. Eventually, this is how computers generate realistic 'artificial' content",
+  "backlink": "https://www.thinkautomation.com/eli5/generative-adversarial-networks-in-500-words-or-less/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "roxanneonreddit",
+    "publication_year": 2024,
+    "external_link": "https://www.thinkautomation.com/eli5/generative-adversarial-networks-in-500-words-or-less/",
+    "sentiment_score": "0.296",
+    "sentiment_label": "positive"
+  }
+}

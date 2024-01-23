@@ -1,0 +1,15 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Very difficult-to-formulate question about how the human eye processes visual information: do we process things in order based on what we are focusing on rather than the entire field of vision?,earthtochas3,https://www.reddit.com/r/askscience/comments/g5cnep/very_difficulttoformulate_question_about_how_the/,8,6,"I want to try and explain this phenomenon a bit better (I'm not even sure if it's real or an optical illusion), so I'll be as detailed as I can. 
+
+I'm experiencing something weird with reflected light and the way my brain is trying to process it and I'm not sure if there have been any experiments done that might address it.
+
+1. Say I have a red blinking light to my left, and a mirror to my right such that when I stare at a single point directly in between the two, I can see a perfectly symmetrical reflection of the light in the mirror. **Both lights are near my visual periphery in this scenario. Also, due to the speed of light, I assume that my brain would normally consider these two events as simultaneous.**
+2. If I focus on that single middle point, I can become fully aware of both lights blinking in my periphery and I can sync their timing up together perfectly.
+3. However, if I choose to continue staring at that center point but shift my *focus* to the right or left side (i.e. basically watching only one of the lights specifically out of the corner of my eye), my reaction to the second light blinking seems to be slightly after the light being focused on. This works both ways.
+4. One reason it bugs me is that I can't make the process happen in reverse. For example, staring at center point, Focusing on Light A in my periphery, and convincing my brain to react and process Light B blinking *before* it processes the light from Light A. If I try to ""switch"" them, my brain becomes aware that it actually just shifted *focus* to Light B and now Light A is in the periphery.
+
+I am curious if this is due to how our brain evolved to use our entire field of vision while focusing on specific points and is basically limited by the amount of information it could process per unit time. I just read something about Eagles having a higher ""Nyquist Rate"" and wonder if that has any relevance to what I'm getting at here, but more on the software side and less on the hardware, if you get what I mean.
+
+The main reason I am asking is because of the potential applications for neuroscience and AI. Mapping the human mind based on how many bits of information we can process at a given moment, what we have to focus on, the stimulus/reaction delay for things in our focus vs. things in our periphery, etc. 
+
+Thanks in advance for reading this long-winded and poorly-worded question, and if you need me to explain what I'm experiencing in better detail, I'll do my best."

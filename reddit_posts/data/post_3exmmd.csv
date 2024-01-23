@@ -1,0 +1,16 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Advanced Math problem: 10×10^12 points are to be placed in a 3-Dimensional graph. Lines are to be drawn connecting every point with every other point. The points positions are arbitrary. What is the least amount of lines needed to connect them all?,JarInABrain,https://www.reddit.com/r/askscience/comments/3exmmd/advanced_math_problem_101012_points_are_to_be/,21,0,"To give some background, I have a bit of an AI interest going on (good timing with The Singularity fear and all!) and I'm looking for the algorithm that can solve the above!
+
+For those who wish further background: each point is a basic object, and the whole represents everything. Objects closely associated are grouped closer (but is not needed yet as the process of association is mindbogglingly long, thus, arbitrary! Whew!)
+
+(Yes, to those following, it's the brain, yay!)
+
+Good luck and thank you!
+
+Edit: I realise the question itself could be as hard to formulate to answer but I will try nonetheless (I can see the pattern, but do not as of yet possess the math to unmask it, hence why I'm looking for bright minds who could help me here!)
+
+So, using a straight line would firstly be cheating since a a straight line is 2d, but more importantly, the distance between the first point and last point is huge! There should be an addition to the question that creates some additional parameters to follow but not sure what yet ehe..
+
+If someone wishes to help on that end too, the full task is as followed: every object (both physical and abstract, thus fundamentally words) is connected to any object it may interact with (see Wittgenstein's State of Affairs for further info). Synonyms are grouped closest for example. If we imagine the word ""Apple"" in the cluster, it will be connected to words like ""Fruit"" or the colour ""Red"" etc. It's a network of association leaving no object ""behind"".
+
+So, those thinking of the travelling salesman problem are on the right track, as this problem definitely barks up that tree! "

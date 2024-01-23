@@ -1,0 +1,15 @@
+{
+  "title": "TIL that the AI that beat the world's best DOTA player did so only because it was a 1v1, forced the player to use the same hero it was using, had access to Dota's API, and ended up losing multiple times after players switched strategy",
+  "backlink": "https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "myusernamesuckslol",
+    "publication_year": 2024,
+    "external_link": "https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk",
+    "sentiment_score": "0.4939",
+    "sentiment_label": "positive"
+  }
+}

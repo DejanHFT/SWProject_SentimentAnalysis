@@ -1,0 +1,8 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Is it possible to to model and predict COVID-19 variants and their effects ahead of time?,mindloss,https://www.reddit.com/r/askscience/comments/ozobvd/is_it_possible_to_to_model_and_predict_covid19/,5,0,"And if so, is anyone working on it?
+
+I keep reading news all the time like, say, DeepMind's fantastic success recently with using AI to predict protein folding to roughly atomic accuracy. I don't know biology, really, but I gathered that was a big deal.
+
+So I wonder: do we still lack the tech and/or knowledge to randomly explore the state space of potential COVID-19 mutations and be able to have a good enough guess at their characteristics that we could flag potential problematic variants for further review? Even if the prohibitive factor is the enormous range of possible mutations, I'd think a random search would be still be useful inasmuch as that's how the actual disease operates, so it could at least hint at which variants are particularly likely to emerge.
+
+And it seems like it would be nice to know whether any real monsters are lurking around the corner, if such a thing were possible. If it's not currently possible, why not?"

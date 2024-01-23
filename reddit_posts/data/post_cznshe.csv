@@ -1,0 +1,6 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Is it possible to have a perfectly anonymized database?,bigmaguro,https://www.reddit.com/r/askscience/comments/cznshe/is_it_possible_to_have_a_perfectly_anonymized/,4,1,"Having a database containing vast amount of data (e.g. human behavior, medical records, work data, etc.) could be extremely useful for AI learning and scientific analysis. However, personal data security is a big issue. Is it in theory possible to have such database that is both useful and secure? Or is impossible to use all these data together without an option to deanonymize personal data?
+
+----
+
+**Bonus question**: Could there be a quantum equivalent of such database? It seems that quantum systems have some useful properties here. While you can work with the whole information, if you look closely decoherence happens, you get a ""random"" result and are limited by the uncertainty principle."

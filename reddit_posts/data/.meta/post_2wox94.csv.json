@@ -1,0 +1,15 @@
+{
+  "title": "TIL that to prepare IBM's Watson for Jeopardy, researchers inputted the entirety of Urban Dictionary. Unfortunately, this had the side effect of Watson adopting profanity. In one test, it even used the word \"bullshit\" to respond to a researcher's query.",
+  "backlink": "http://www.theatlantic.com/technology/archive/2013/01/ibms-watson-memorized-the-entire-urban-dictionary-then-his-overlords-had-to-delete-it/267047/?whoosh",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Puppier",
+    "publication_year": 2024,
+    "external_link": "http://www.theatlantic.com/technology/archive/2013/01/ibms-watson-memorized-the-entire-urban-dictionary-then-his-overlords-had-to-delete-it/267047/?whoosh",
+    "sentiment_score": "-0.6705",
+    "sentiment_label": "very negative"
+  }
+}

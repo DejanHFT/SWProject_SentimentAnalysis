@@ -1,0 +1,6 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+How have we not yet been able to program an AI that's unbeatable at chess?,RavenMFD,https://www.reddit.com/r/askscience/comments/1pdtwh/how_have_we_not_yet_been_able_to_program_an_ai/,630,1792,"There have been machines built with the sole purpose of playing chess, and have still been beaten by some humans.
+
+If I try to calculate how many moves a chess game regularly takes, and how many pieces each player has, and how many move-options each chess piece has, it sounds like way too many possibilities for my head, but I feel for a chess super computer, it's fairly limited and should be handled in mere milliseconds...
+
+Edit: Thanks for the cool answers guys, so far I've learned that chess is far too complex for it to be ""solved"" with simple game theory, but that we're getting closer(?)"

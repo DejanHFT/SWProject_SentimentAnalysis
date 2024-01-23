@@ -1,0 +1,15 @@
+{
+  "title": "TIL that reading books make AI smarter than reading tweets. \"OpenAI Transformer\", an artificial intelligence language model, is trained with 7000 books since it allows the model to associate related information better than as it would be the case if it would be trained with tweets.",
+  "backlink": "http://jalammar.github.io/illustrated-bert/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mdudde",
+    "publication_year": 2024,
+    "external_link": "http://jalammar.github.io/illustrated-bert/",
+    "sentiment_score": "0.8402",
+    "sentiment_label": "very positive"
+  }
+}

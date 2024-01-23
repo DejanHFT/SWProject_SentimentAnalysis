@@ -1,0 +1,28 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+AskScience AMA Series: We're team Vectorspace AI and here to talk about datasets based on human language and how they can contribute to scientific discovery. Ask us anything!,AskScienceModerator,https://www.reddit.com/r/askscience/comments/9k5i8u/askscience_ama_series_were_team_vectorspace_ai/,98,1125,"Hi, r/askscience! We're team Vectorspace AI and here to talk about datasets based on human language and how they can contribute to scientific discovery.
+
+**What do we do?**
+
+In general terms, we add structure to unstructured data for [unsupervised Machine Learning](https://en.wikipedia.org/wiki/Unsupervised_learning) (ML) systems. Not very glamorous or even interesting to many but you might liken it to the glue that binds data and semi-intelligent systems.
+
+More specifically, we build datasets and augment existing datasets with additional 'signal' for the purpose of [minimizing a loss function](https://en.wikipedia.org/wiki/Loss_function). We do this by generating context-controlled [correlation](https://xkcd.com/552/) matrices. The correlation scores are derived from machine & human language processed in vector space via labeled embeddings ([LBNL 2005](http://www.google.com/patents/US7987191), [Google 2010](https://en.wikipedia.org/wiki/Word2vec).
+
+**Why are we doing this?**
+
+We can enable data, ML and Natural Language Processing/Understanding/Generation ([NLP/NLU/NLI/NLG](http://www.isi.hhu.de/fileadmin/redaktion/Oeffentliche_Medien/Fakultaeten/Philosophische_Fakultaet/Sprache_und_Information/Van_Valin_From_NLP_to_NLU.pdf) engineers and scientists to save time by testing a hypothesis or running experiments a bit faster and for additional data interpretation. From improving [music](https://www.slideshare.net/AndySloane/machine-learning-spotify-madison-big-data-meetup) and [movie](https://nikhilwins.wordpress.com/2015/09/18/movie-recommendations-how-does-netflix-do-it-a-9-step-coding-intuitive-guide-into-collaborative-filtering/) recommendation systems to enabling a researcher in discovering a [hidden connection in nature](https://en.wikipedia.org/wiki/Biomimetics). This can increase the speed of innovation and better yet novel scientific breakthroughs and discoveries.
+
+We are particularly interested in how we can get machines to trade information with one another or exchange and transact data in a way that minimizes a selected loss function.
+
+Today we continue to work in the area of life sciences and the financial markets with groups including Lawrence Berkeley National Laboratory and a few internal groups at Google along with a of couple hedge funds in the area of analyzing global trends in news and research similar to methods like [this](https://youtu.be/ed2FWNWwE3I?t=2375) [minute 39:35]
+
+We're here to answer questions related to datasets and their connection to our work in the past, present and future. Please feel free to ask us anything you'd like related to our methods, approach or applications of if you want to shoot the research breeze, that's fine too.
+
+A little more on our work can be found [here](https://vectorspace.ai/reddit-ama.html).
+
+We'll be on at 1pm (ET, 17 UT), ask us anything!
+
+---
+
+Edit: Thanks for all your great questions! Feel free to contact us anytime with follow up questions at [vectorspace.ai
+](https://vectorspace.ai/)
+"

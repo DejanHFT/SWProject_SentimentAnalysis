@@ -1,0 +1,15 @@
+{
+  "title": "TIL AlphaGo the AI that beat the World Go Champion Lee Sedol 4-1 in a best of five series, was defeated by it's third version AlphaGo Zero, 100-0. The original AlphaGo learnt from the data of Go matches played by humans, and AlphaGo Zero learnt by playing against itself, no data or human interaction",
+  "backlink": "https://deepmind.com/blog/alphago-zero-learning-scratch/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "amratesh",
+    "publication_year": 2024,
+    "external_link": "https://deepmind.com/blog/alphago-zero-learning-scratch/",
+    "sentiment_score": "0.8519",
+    "sentiment_label": "very positive"
+  }
+}

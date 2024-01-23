@@ -1,0 +1,13 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"What's your Myers-Briggs personality type, Reddit?",chalks777,https://www.reddit.com/r/AskReddit/comments/cj6fi/whats_your_myersbriggs_personality_type_reddit/,79,14,"Inspired by [this](http://www.reddit.com/r/science/comments/cj289/in_the_interest_of_psychology_is_there_any_way_we/) thread, I decided to collect your info for the general amusement of all.
+
+[Submit your personality here](http://jdw.me/personality).
+
+Since we need something to talk about:  I wrote the site with php, basic xhtml, and css.  The editor I used was VI.  I store timestamps and ip with each submission, so if anyone has any creative ideas on what to do to make the data more interesting, let me know.
+
+
+**edit**: Try voting twice.
+
+**edit2**: A direct link to [the results](http://jdw.me/personality/results.php)
+
+**edit3**: Get a reasonable approximation of your type [here](http://similarminds.com/jung.html)"

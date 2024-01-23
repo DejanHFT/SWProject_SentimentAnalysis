@@ -1,0 +1,20 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"AskScience AMA Series: I am Michael Abramoff, a physician scientist, and also the founder of Digital Diagnostic, that created the first ever FDA approved autonomous AI. AMA!",AskScienceModerator,https://www.reddit.com/r/askscience/comments/n6vv69/askscience_ama_series_i_am_michael_abramoff_a/,22,50,"I am Michael Abramoff, a physician scientist, and also the founder of Digital Diagnostics (formerly IDx, https://dxs.ai), that created the first ever FDA approved autonomous AI. It makes a medical decision without human oversight, and was based on decades of work in neuroscience and neural networks, design of diagnostic AI algorithms, and design of validation trials, in close collaboration with US FDA. This happened in 2018, and I did an AMA here at the time  here: https://www.reddit.com/r/askscience/comments/9d5id2/askscience_ama_series_im_michael_abramoff_a/
+
+Since then, the success of Digital Diagnostics allows me to focus on the deep scientific questions around autonomous AI. What are the ethical issues and dilemmas around autonomous AI in healthcare, and how can we solve these to build an ethical foundation for autonomous AI. This framework then helps guide design, development, validation, regulation, liability issues, implementation and even reimbursement. Read more here: https://doi.org/10.1016/j.ajo.2020.02.022, and also in an the issue of the American Journal of Bioethics dedicated to our framework https://doi.org/10.1080/15265161.2020.1819469
+
+Given its almost infinitely scalability, autonomous AI has the potential to do good on a massive scale. Think of improving access, solving health disparities, address health equity issues, lowering cost of care, and improving care quality, to benefit patients is tremendous. At the same time, because the large scale in which it is deployed, it also has the potential to do harm. That is why it needs to be done the right way.
+
+And, thanks to ethical frameworks, we have come far already: inclusion in clinical standards of care, a framework for autonomous AI medical liability, a methodology for autonomous AI's reimbursement incorporating massive cost savings, and most recently a Medicare reimbursement of $55 and more. The healthcare system was built around physicians, nurses, and other human healthcare workers doing ""stuff"". Research studies, peer reviewed publications, FDA approval, ultimately are not enough for changing in clinical practices. So all these steps, and many more, were necessary to get the results of the science of AI to benefit patients.
+
+Now that the technology is real, other companies also have entered the autonomous AI field, we are getting ready to start a trial for a second autonomous AI, for skin cancers, it is time to do another AMA.
+
+I am neuroscientist who started studying neural networks to mimic brain function over 30 years ago. I am also a practicing retina specialist - a physician who specializes in ophthalmology with a fellowship in vitreoretinal surgery -; and a computer scientist, with a MS in Computer Science about artificial neural networks, and a PhD in 2001 on ""AI"" of medical images.
+
+I am founder and executive chairman of Digital Diagnostics, and hence have conflicts of interest. You may also know me as one of the original developers of ImageJ, a widely used open-source image analysis app. I have published over 300 peer reviewed journal papers (h-index 66) on AI and retina, and am inventor on 17 patents and 5 patent applications in this area.
+
+Because my statements are often under FDA, FTC, or CMS oversight and scrutiny, my answers may then seem unnaturally constrained - I will try to explain when that is the case.
+
+I'll be in and out for a good part of the day, AMA!
+
+Username: /u/MichaelAbramoff"

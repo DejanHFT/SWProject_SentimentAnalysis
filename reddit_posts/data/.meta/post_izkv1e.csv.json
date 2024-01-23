@@ -1,0 +1,15 @@
+{
+  "title": "TIL Speech2Face, an AI tool developed by MIT researchers, generated images of people from their voices. The majority accurately pinpointed the speakers’ gender, race, and age. Though they were too generic to identify specific people.",
+  "backlink": "https://www.smithsonianmag.com/smart-news/artificial-intelligence-generates-humans-faces-based-their-voices-180972402/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "chacham2",
+    "publication_year": 2024,
+    "external_link": "https://www.smithsonianmag.com/smart-news/artificial-intelligence-generates-humans-faces-based-their-voices-180972402/",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral"
+  }
+}

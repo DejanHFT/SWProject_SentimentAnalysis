@@ -1,0 +1,15 @@
+{
+  "title": "An artificial intelligence program has been developed that is better at spotting breast cancer in mammograms than expert radiologists. The AI outperformed the specialists by detecting cancers that the radiologists missed in the images, while ignoring features they falsely flagged",
+  "backlink": "https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "madam1",
+    "publication_year": 2024,
+    "external_link": "https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer",
+    "sentiment_score": "-0.5106",
+    "sentiment_label": "very negative"
+  }
+}

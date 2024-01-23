@@ -1,0 +1,15 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+My mind was blown after reading this article.  Can someone tell me about your fascination with cellular automata?,berlinbrown,https://www.reddit.com/r/askscience/comments/evwom/my_mind_was_blown_after_reading_this_article_can/,23,14,"I was off this last week and decided to refresh my AI knowledge. I was looking for information on autonomous agents and stumbled upon cellular automata. I researched the topic in the past but not much in detail.
+
+For the past week, I really got into it and my mind is completely blown. Basically, cellular automata consists of applying simple rules (programs as Stephen Wolfram calls them) to a on/off cell grid. You start with some initial state and then run the program.  Over time, patterns start to emerge.
+
+In one speech, Stephen Wolfram claims to have modeled space and time with some of his experiments. It is fascinating stuff.
+
+Also, I want to write some applications with real world examples. Could you also help me build some practical? Right now, I was thinking of building a visual turing machine demo.
+
+Article:
+http://www.stephenwolfram.com/publications/recent/hplus2010/
+
+Example Application:
+
+http://tones.wolfram.com/generate/"
