@@ -1,0 +1,16 @@
+{
+  "title": "A delicious assortment of sushi!",
+  "backlink": "http://i.imgur.com/25dh9Wp.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Geeky_",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/25dh9Wp.jpg",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

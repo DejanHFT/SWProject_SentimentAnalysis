@@ -1,0 +1,16 @@
+{
+  "title": "My doctor has a great sense of humor",
+  "backlink": "https://i.imgur.com/ifcvqIF.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "butterducklord",
+    "publication_year": 2024,
+    "external_link": "https://i.imgur.com/ifcvqIF.jpg",
+    "sentiment_score": "0.7351",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

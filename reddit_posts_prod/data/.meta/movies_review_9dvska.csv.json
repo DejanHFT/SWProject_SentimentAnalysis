@@ -1,0 +1,16 @@
+{
+  "title": "Report: Netflix apparently shut down its user review platform because of the increasingly bad reviews its original programming received for years",
+  "backlink": "https://www.dailydot.com/upstream/netflix-user-reviews-originals/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "sambachi",
+    "publication_year": 2024,
+    "external_link": "https://www.dailydot.com/upstream/netflix-user-reviews-originals/",
+    "sentiment_score": "-0.296",
+    "sentiment_label": "negative",
+    "sentiment_scope": "Title content only"
+  }
+}

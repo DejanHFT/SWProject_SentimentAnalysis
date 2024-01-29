@@ -1,0 +1,16 @@
+{
+  "title": "Delicious Summer",
+  "backlink": "http://i.imgur.com/GwtQA.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "splitwheel",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/GwtQA.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

@@ -1,0 +1,25 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+I wonder if reddit is as excited as I am about brain stimulation becoming an acceptable treatment option for mental disorder.,Aring,https://www.reddit.com/r/science/comments/dqgmx/i_wonder_if_reddit_is_as_excited_as_i_am_about/,64,15,"A new study published in *[Brain Stimulation](http://www.brainstimjrnl.com/)*, yes, a peer-reviewed scientific journal dedicated to transcranial magnetic stimulation (TMS), demonstrates *long-term* effects of TMS in depression with a subject size of **301**. 
+
+[The study in question, here](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B8JBG-50RV0WX-1&_user=10&_coverDate=08/11/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=ccb3f7c73686205562ff2aacab8196f2&searchtype=a).
+
+
+Edit: Some description of rTMS:
+
+
+A single pulse of TMS is delivered through a figure 8 TMS coil by passing a very large current through two coils in the figure 8. What you have resulting is a magnetic field perpendicular to the current direction, or coming out of one side of the coil. Make this magnetic field strong enough (by making the current strong enough) and place it over the motor cortex, and you will see that the neurons in the motor cortex are activated and you actually have a physical reaction (hand/thumb twitching in the hand contralaterally to the stimulation), so you know that this stimulation is activating cortical neurons at this intensity of stimulation (which is different per person - this is called the motor threshold and is basically how you calibrate the stim intensity to the individual).
+
+
+TMS treatment is then taking this intensity (which can be played with during treatment) and stimulating an area in the prefrontal cortex at 10Hz (10 stimulations per second) for several seconds. This burst of TMS is repeated many times over a period of about 10-30 minutes and that is one treatment session of rTMS (repetitive, as the TMS is done many times over within a period of one second). When performed daily, you have a treatment regimen.
+
+
+This is a very coarse treatment, however, as the frequency was chosen because one of the resonant frequencies of a neuron lies within 9-12 Hz, but each individual has their own specific neuronal resonance frequency. Additionally, different cortical structures may require more attention then others, so taking an arbitrary approach to all patients is fairly inefficient.
+
+There have not been many papers talking about what is happening in your brain while this is going on because it is not well understood. But I can tell you what is happening. You are changing baseline firing of pyramidal neurons at the cortical levels, redistributing bloodflow in the brain, and restoring function to specific cortical functional structures. In-depth knowledge on how all of this works and how to monitor it comes through EEG (electroencephalogram) analysis - which is how I apply the treatment not only to depression, but also other disorders such as autism, anxiety disorders, parkinson's, etc.
+
+
+TMS has been around for over a decade, but it is only just recently surfacing in the public eye.
+I have been using rTMS on autism among other disorders and have seen similar positive effects.
+
+So, are redditors ready for brain function tinkering?
+"

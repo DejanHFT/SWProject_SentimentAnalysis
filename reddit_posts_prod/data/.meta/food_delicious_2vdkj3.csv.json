@@ -1,0 +1,16 @@
+{
+  "title": "My guacamole is delicious!",
+  "backlink": "http://imgur.com/a/B6hPn",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Mysecretpassphrase",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/a/B6hPn",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

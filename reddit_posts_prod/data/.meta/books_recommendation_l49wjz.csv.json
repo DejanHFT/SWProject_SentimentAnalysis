@@ -1,0 +1,16 @@
+{
+  "title": "I recommended a stranger a book and they got it!",
+  "backlink": "https://www.reddit.com/r/books/comments/l49wjz/i_recommended_a_stranger_a_book_and_they_got_it/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Kangaroofact",
+    "publication_year": 2024,
+    "external_link": "https://www.reddit.com/r/books/comments/l49wjz/i_recommended_a_stranger_a_book_and_they_got_it/",
+    "sentiment_score": "0.9523",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title & text content"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "[I Ate] Delicious Cheeseburger",
+  "backlink": "https://i.redd.it/kumrmroev0ux.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "molakai",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/kumrmroev0ux.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

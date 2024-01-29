@@ -1,0 +1,16 @@
+{
+  "title": "Bought $100 worth of delicious exotic fruit today",
+  "backlink": "http://i.imgur.com/FrRn4Xn.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "FulminatedMercury",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/FrRn4Xn.jpg",
+    "sentiment_score": "0.6808",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

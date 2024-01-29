@@ -1,0 +1,16 @@
+{
+  "title": "Bar Humor",
+  "backlink": "https://i.redd.it/trnbny0e1og01.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Zaxioni",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/trnbny0e1og01.jpg",
+    "sentiment_score": "0.2732",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

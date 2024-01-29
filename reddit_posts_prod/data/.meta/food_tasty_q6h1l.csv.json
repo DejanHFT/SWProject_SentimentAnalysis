@@ -1,0 +1,16 @@
+{
+  "title": "Today's food. Not the healthiest, but damn tasty.",
+  "backlink": "http://i.imgur.com/nvEsN.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "psylichon",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/nvEsN.jpg",
+    "sentiment_score": "-0.5499",
+    "sentiment_label": "very negative",
+    "sentiment_scope": "Title content only"
+  }
+}

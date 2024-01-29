@@ -1,0 +1,10 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Proper use of ball bearing for a vertical rotation (azimuth rotation for a ground station),Fun-Palpitation81,https://www.reddit.com/r/DIY/comments/101p8dh/proper_use_of_ball_bearing_for_a_vertical/,13,6,"Hello all,
+
+Sorry for title gore, see this [picture](https://imgur.com/a/jnJ8Pdj) for what I am trying to do.
+
+My understanding is that I can support the outer side of the bearing with the base, but then that leaves a thin shaft  (inside of the bearing) between the stepper and the satellite dish, which has weight, and won't be completely balanced. I doesn't make sense to me that all of the movement and weight would be concentrated on a single shaft.
+
+Is there a better way to achieve this rotation, I tried to google, but I don't even know what to google for this.
+
+Any direction or input would be greatly appreciated."

@@ -1,0 +1,16 @@
+{
+  "title": "What is your favorite movie of all time ?",
+  "backlink": "https://www.reddit.com/r/movies/comments/cjjh1k/what_is_your_favorite_movie_of_all_time/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "FireFox9916",
+    "publication_year": 2024,
+    "external_link": "https://www.reddit.com/r/movies/comments/cjjh1k/what_is_your_favorite_movie_of_all_time/",
+    "sentiment_score": "0.9702",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title & text content"
+  }
+}

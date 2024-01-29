@@ -1,0 +1,16 @@
+{
+  "title": "TIL These are DELICIOUS!",
+  "backlink": "http://imgur.com/CnI7O.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "hasavagina",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/CnI7O.jpg",
+    "sentiment_score": "0.6932",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

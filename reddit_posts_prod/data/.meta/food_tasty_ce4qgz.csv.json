@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] tacos with chapulines and worms. Pretty tasty!!",
+  "backlink": "https://i.imgur.com/5YysPVg.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "drizerman",
+    "publication_year": 2024,
+    "external_link": "https://i.imgur.com/5YysPVg.jpg",
+    "sentiment_score": "0.5837",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

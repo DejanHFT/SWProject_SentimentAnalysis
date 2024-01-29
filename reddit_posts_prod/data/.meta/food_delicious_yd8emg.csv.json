@@ -1,0 +1,16 @@
+{
+  "title": "[i ate] delicious spicy kimchi.",
+  "backlink": "https://i.redd.it/8qkfgc766zv91.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "GetLaidInLife",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/8qkfgc766zv91.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

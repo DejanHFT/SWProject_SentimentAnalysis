@@ -1,0 +1,16 @@
+{
+  "title": "My uncle has a great sense of humor",
+  "backlink": "http://imgur.com/ihFggdf",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "JBSpartan",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/ihFggdf",
+    "sentiment_score": "0.7351",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

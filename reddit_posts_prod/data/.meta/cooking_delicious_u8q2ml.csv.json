@@ -1,0 +1,16 @@
+{
+  "title": "Tell me a delicious dish I've never heard of",
+  "backlink": "https://www.reddit.com/r/Cooking/comments/u8q2ml/tell_me_a_delicious_dish_ive_never_heard_of/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "krlidb",
+    "publication_year": 2024,
+    "external_link": "https://www.reddit.com/r/Cooking/comments/u8q2ml/tell_me_a_delicious_dish_ive_never_heard_of/",
+    "sentiment_score": "0.9877",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title & text content"
+  }
+}

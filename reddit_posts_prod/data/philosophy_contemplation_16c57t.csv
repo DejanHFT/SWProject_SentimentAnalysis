@@ -1,0 +1,38 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"Some surprising implications of determinism, especially related to counterfactuals and our concept of ontological ""possibility.""",cephas_rock,https://www.reddit.com/r/philosophy/comments/16c57t/some_surprising_implications_of_determinism/,40,19,"Assume determinism; the actual world is causally rigid and coherent.
+
+I can project, in my mind, components of a world-state; i.e., I can imagine things.
+
+My imagination can correspond to fictional things (like fantasies or what we sloppily call ""possible futures"") or to memories, or any combination therebetween. One might even say that when we ""remember"" something, it is an imaginary reconstruction based on our brain's many ""impact craters.""
+
+When I make these projections, I can call these ""world-state simulations"" or simply ""Simulations.""
+
+There are vast differences between these Simulations and what is occurring in the real world. Let's say I'm making a 3D video game and need to make a wall. In the real world, a wall consists of innumerable subparticles. But we can't see those subparticles, and generally care only that the wall is flat, and don't know exactly how all of those subparticles work, and our computer has limited processing power. So we ""average out"" or ""gloss over"" or ""flatten out"" the complexity of a real wall. We paint pixels on a pair of triangles and call it ""good enough."" This is analogous to the Simulations happening in our brains. They are extremely rough and imperfect because a miniscule fraction of the real-world details are detected and considered relevant enough to preserve. And they are preserved only in extremely crude ways, as crude as boiling the trillions of subparticles of a brick wall down to bitmaps on polygons.
+
+Another way to say this might be that we're *always* ""playing with blocks"" whenever we contemplate the real world in any way. A helicopter made of LEGO blocks is more crude, less functional, and simpler than a real helicopter, but we can build it, think about all of its subcomponent blocks, and hold it in our hands. A similar thing happens in our brains when we think about a helicopter. The brain patterns that we associate with the helicopter, or any object, or any memory, are indescribably crude. The contents of our Simulations are entirely block-built.
+
+I've been struggling with the following: Under determinism, all counterfactual conditionals have false antecedents. They *can't* have true antecedents. ""If I had gone to work immediately, I wouldn't have been late,"" has the false antecedent, ""If I had actually done what I had not actually done,"" or, ""If X happened, where X did not happen."" It's like a piece of code that reads, ""if(A && !A) {...}"" which will never, ever execute that ""{...}"". To imagine the antecedent being hypothetically true requires an exception to the LNC.
+
+And yet, when we all hear that counterfactual, it oozes meaning (this was my struggle). I can vividly imagine the possible world in which I had gone to work immediately and arrived on time.
+
+Except, not so vividly, right? That ooze is made of blocks. In my Simulation of leaving work immediately, there are innumerable elements I can and do ignore, many of which are vital for causal coherence. In fact, my Simulation *must* be causally incoherent, or else it would be equivalent in its procession of events to the actual world. My Simulation required a ""miracle,"" as David Lewis calls it -- an exceptional break in natural causality.
+
+Furthermore, it seems dangerously reckless to call it a ""possible world."" It is not logically possible, because actualization (""{...}"") requires the LNC being violated.
+
+Call it a projected world, a simulated world, an imagined world, but it is not a possible world. The phrase ""I can imagine a possible world wherein..."" should be anathema. You cannot imagine a possible world, because there is only one logically possible world (the one that is actualized), and your apprehension of it (i.e., your Simulation) is at all times not equivalent to it (by virtue of being dramatically more crude).
+
+* ""There is a possible world in which I like ice cream."" No, there is not. Rather, say ""I can imagine a fiction wherein a Lego man that looks kinda like me is enjoying ice cream.""
+
+* ""My opponent has many possible cards in his pocket."" No, he does not. Rather, say ""I am ignorant as to the cards in my opponent's pocket.""
+
+* ""That die could possibly turn up 1, 2, 3, 4, 5 or 6."" No, it cannot possibly do that; it can turn up only what it will turn up, which is simply unknown.
+
+What's the harm, you ask, in using the possible worlds ""nickname"" to convey our statements about our projections and our ignorance? Because various people take it literally, and begin proclaiming that those ""possible worlds"" exist in some ontological sense, like our friend David Lewis, and Alvin Plantinga.
+
+tl;dr: 
+
+* Determinism blurs the lines between contingent and necessary truth, and calls violations of causality violations of *logic,* which makes talking about ""possible worlds"" bad nomenclature, since under determinism they are not at all logically possible.
+
+* Counterfactuals appear meaningful to us only because we project fiction using the same mechanism (crude imagination) we employ to grasp nonfiction (i.e., memory and experience).
+
+* Finally, ""possible worlds"" is a sloppy way of saying things we have better, clearer ways of saying. I'm starting to be suspicious of the word ""possible"" in general when speaking ontologically."

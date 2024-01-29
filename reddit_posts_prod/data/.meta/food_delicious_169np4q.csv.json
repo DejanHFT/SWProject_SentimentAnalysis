@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] An authentic amazing falafel roll filled with exotic veggies and the delicious chickpea hummus.",
+  "backlink": "https://i.redd.it/gz5sr32wl7mb1.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "aftab_29",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/gz5sr32wl7mb1.jpg",
+    "sentiment_score": "0.8176",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

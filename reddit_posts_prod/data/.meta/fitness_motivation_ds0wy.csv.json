@@ -1,0 +1,16 @@
+{
+  "title": "A little motivation",
+  "backlink": "http://imgur.com/jUrZy.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Bad_CRC",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/jUrZy.jpg",
+    "sentiment_score": "0.2748",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

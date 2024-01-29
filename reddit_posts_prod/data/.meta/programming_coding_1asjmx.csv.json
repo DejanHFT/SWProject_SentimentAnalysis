@@ -1,0 +1,16 @@
+{
+  "title": "NASA Java Coding Standard",
+  "backlink": "http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_Java.pdf",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "kromit",
+    "publication_year": 2024,
+    "external_link": "http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_Java.pdf",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral",
+    "sentiment_scope": "Title content only"
+  }
+}

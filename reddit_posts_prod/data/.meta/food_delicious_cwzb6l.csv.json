@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] Delicious German Jaegerschnitzel with fried potatoes!",
+  "backlink": "https://i.redd.it/747n3pebddj31.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "EphiXorE",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/747n3pebddj31.jpg",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

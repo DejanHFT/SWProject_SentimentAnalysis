@@ -1,0 +1,14 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Is learning through competition a valid concept?,Global_Wash248,https://www.reddit.com/r/education/comments/ye80xl/is_learning_through_competition_a_valid_concept/,17,3,"Long story short - I have a very engaging job doing React (specifically React Native) on daily basis, and I felt like I have been not touching different areas of React while doing so, and I didn't want to be left behind.
+
+So after thinking about how I can change that, I came up with an app idea that would maybe help me stay in the loop with React trends.
+
+As a user, I wanted to assert my current level of knowledge and get exposed to different types of React questions, and get feedback and insights if I am not on the right path.
+
+The main idea of the app is that you get a set of questions that you need to answer first, then get feedback if you are correct, and afterward get access to an article or documentation explaining a specific concept, task, etc. Afterward, the app will adjust my ""knowledge level"" based on how I did and serve me with harder questions.
+
+Currently, a few of my developer friends are using the app with me and we are trying to figure out if the concept is valid, but we would love to hear any feedback possible, especially from people that are in the industry.
+
+And yeah, it also can help you get prepared for the interview.
+
+If you are interested in more info, you can check it up [here](https://codaroo.io/), but the main concept is explained in the post."

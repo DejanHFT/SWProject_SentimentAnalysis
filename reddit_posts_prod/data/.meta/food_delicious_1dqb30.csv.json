@@ -1,0 +1,16 @@
+{
+  "title": "Simple things can be delicious, too.",
+  "backlink": "http://i.imgur.com/KLS1sRw.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Buehler-buehler",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/KLS1sRw.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

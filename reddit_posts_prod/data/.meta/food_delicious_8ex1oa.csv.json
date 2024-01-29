@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] some delicious sashimi and sushi!",
+  "backlink": "http://imgur.com/LOBkezB",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "NuclearArse-nal",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/LOBkezB",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

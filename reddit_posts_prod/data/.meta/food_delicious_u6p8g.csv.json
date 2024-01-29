@@ -1,0 +1,16 @@
+{
+  "title": "Pho-king delicious!",
+  "backlink": "http://i.imgur.com/ugKIB.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Heartkendal",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/ugKIB.jpg",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

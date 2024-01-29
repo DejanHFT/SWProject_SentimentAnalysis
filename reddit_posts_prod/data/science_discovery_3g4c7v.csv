@@ -1,0 +1,48 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"Science AMA Series: Hi, I’m Jonathan Ling, a researcher that’s here to share our new breakthrough discovery for ALS (amyotrophic lateral sclerosis)",ALS-researcher,https://www.reddit.com/r/science/comments/3g4c7v/science_ama_series_hi_im_jonathan_ling_a/,416,5707,"Hey reddit,
+
+Today, in the journal *Science*, you can find our [paper]( http://www.sciencemag.org/content/349/6248/650.abstract) which describes the function of TDP-43, an important protein in ALS (the disease that the ice bucket challenge raised money for)
+
+**tl;dr**: TDP-43 doesn’t do its job in 97% of all ALS cases. Scientists didn’t really know its function—now we do. We also show that it’s something that can be fixed!
+
+-----------------------------------------------------------------------------------
+**ELI5**
+
+Cells in your body are constantly reading your DNA to make proteins.
+
+DNA is located in the **nucleus** of a cell. You can think of a nucleus as a library except that instead of having books neatly lined up on shelves, the books in a nucleus have all of their pages ripped out and thrown around randomly.
+
+To sort through this mess, the cell has great librarians that go around collecting all these pages, collating them and neatly binding them together as books. These librarians then ship these “books” out of the nucleus so that other workers in the cell can do their jobs. Think of these books as instruction manuals.
+
+TDP-43 is a very special type of librarian. TDP-43’s job is to ensure that nucleus librarians don’t accidentally make a mistake and put a random nonsense page (usually filled with gibberish) into the books that they ship out. If one of these nonsense pages makes it into an “instruction manual”, the workers in the cell get really confused and mess things up. For terminology, we call these nonsense pages “**cryptic exons**”.
+
+[Here’s an image](http://i.imgur.com/qYNycaG.png) to help illustrate my analogy.
+
+In the brains of ALS patients, some cells begin to get sick because TDP-43 becomes really sticky and clumps together outside the nucleus, where it can’t do its job. See this [image here](http://i.imgur.com/TdDXwYZ.png). We’ve known about TDP-43 for nearly a decade but never really understood what it did. Today, in our *Science* paper, we actually show evidence of cryptic exons in the brain autopsies of ALS cases, suggesting that some of our theories were right all along: TDP-43 isn’t doing its job correctly in ALS.
+
+-----------------------------------------------------------------------------------
+**So, what does this mean for potential therapies?**
+
+Well, we took mouse stem cells and completely deleted TDP-43 to show that without TDP-43, a cell can’t survive more than 2-3 days. However, when we genetically inserted a special protein designed to mimic TDP-43’s “librarian” function (i.e. prevent random nonsense pages from entering the instruction books of the cell), these cells came back to life and looked completely normal. In other words, these cells had absolutely no TDP-43 inside them but were almost completely healthy. 
+
+Here’s an [image of those cells](http://i.imgur.com/lMJkDwP.png).
+
+If we are able to mimic TDP-43’s function in the human neurons of ALS patients, there’s a good chance that we could slow down progression of the disease! And that’s what we’re putting all our efforts into right now.
+
+-----------------------------------------------------------------------------------
+**Quick note for readers who are well versed in biology**
+
+TDP-43’s splicing repression mechanism is actually quite interesting and hints at a model for the evolution of exon-intron definition. I think biologists have long wondered how the cell can recognize short 50-200bp exons that are separated by gigantic 100kb introns. How is it that random exons don’t just pop up in the intron region by chance? Well, it seems like the cell recruits microsatellite targeting RNA-binding proteins that act as general splicing repressors. This is further supported by the observation that the mechanism of cryptic exon repression is highly conserved across species but the targets are actually 100% different. Furthermore, expansions or contractions of these microsatellite “intronic splicing suppressor” elements could represent loci for disease risk. I think it’s an exciting time for this discovery, especially with the advent of whole genome sequencing.
+
+-----------------------------------------------------------------------------------
+**Anyways** I mainly wanted to do this AMA because I remember reading a lot of stories about people complaining that the ice bucket challenge was a waste and that scientists weren’t using the money to do research, etc. I assure you that this is absolutely false. All of your donations have been amazingly helpful and we have been working tirelessly to find a cure. With the amount of money that the ice bucket challenge raised, I feel that there’s a lot of hope and optimism now for real, meaningful therapies. After all, the best medicines come from a full understanding of a disease and without the financial stability to do high risk, high reward research, none of this would be possible!
+
+Of course, there is always more to be done so please consider donating to the [ALS Association](http://www.alsa.org/donate/) or the [Packard Center for ALS](http://www.alscenter.org/donate/) here at Johns Hopkins. If you're interested in supporting the work of our lab directly, [you can also do so here]( http://pathology.jhu.edu/department/divisions/Neuropathology/giving.cfm).
+
+[Here is a gallery of images as well](http://imgur.com/a/5GEii)
+-----------------------------------------------------------------------------------
+That’s it.  I'll be back at 1 pm ET to answer your questions, **Ask Me Anything!**
+
+**EDIT: Thank you everyone for all the questions! Sorry if I didn't get to you, I will check back on the AMA later and try to respond.**
+
+-Jon"

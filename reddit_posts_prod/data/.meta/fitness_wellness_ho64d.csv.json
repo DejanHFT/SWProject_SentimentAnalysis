@@ -1,0 +1,16 @@
+{
+  "title": "My gym uses high quality, well-kept equipment.",
+  "backlink": "http://i.imgur.com/3mbPm.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "jakek23",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/3mbPm.jpg",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral",
+    "sentiment_scope": "Title content only"
+  }
+}

@@ -1,0 +1,6 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Help needed on how to lay the tubes for an automatic watering plant system. I'm gonna build an automatic watering system for my plants. Lets say I've 20 plants whose water requirements will be varying . I'm planning to use my 20l water can as the tank.,dreamer881,https://www.reddit.com/r/DIY/comments/13i67t3/help_needed_on_how_to_lay_the_tubes_for_an/,4,0,"As the title , I can build upto the Arduino controller and the dc pump (The electronics parts I can make myself) . But how will I lay the tube for my 20 plants ? Some plants are big and some are small . So I need to customize the water output for each plant. 
+
+Can someone share a diagram or a method to achieve the intention?
+
+**TLDR;**  I will use an Arduino to control the DC pump who is taking the water from my 20l can. After that I dont have a clue to distribute the water to the plants"

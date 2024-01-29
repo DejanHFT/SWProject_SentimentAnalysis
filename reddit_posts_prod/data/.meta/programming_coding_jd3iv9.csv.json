@@ -1,0 +1,16 @@
+{
+  "title": "My sister and I are starting an animated coding series to help ease the barrier of entry for beginner programmers. We hope this can encourage those without a technical background to give coding a try!",
+  "backlink": "https://www.youtube.com/watch?v=HQ3dCWjfRZ4",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Chowmein4u",
+    "publication_year": 2024,
+    "external_link": "https://www.youtube.com/watch?v=HQ3dCWjfRZ4",
+    "sentiment_score": "0.8805",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

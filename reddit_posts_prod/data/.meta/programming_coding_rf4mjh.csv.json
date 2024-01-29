@@ -1,0 +1,16 @@
+{
+  "title": "Are there any games where you play by coding?",
+  "backlink": "http://www.example.com",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "lapad55994",
+    "publication_year": 2024,
+    "external_link": "http://www.example.com",
+    "sentiment_score": "0.34",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

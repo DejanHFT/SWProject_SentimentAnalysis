@@ -1,0 +1,16 @@
+{
+  "title": "I made some sweet chilli jam and it's delicious!",
+  "backlink": "http://imgur.com/gallery/lgAuz",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "omgmog",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/gallery/lgAuz",
+    "sentiment_score": "0.7901",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

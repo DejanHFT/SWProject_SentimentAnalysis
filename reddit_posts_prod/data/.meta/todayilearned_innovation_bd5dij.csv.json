@@ -1,0 +1,16 @@
+{
+  "title": "TIL Carlsberg Beer has been a science innovator since the 1870s. While today they are using artificial intelligence to create new beer flavors, the lab they established in 1876 developed the pH scale that has become the standard for determining acidity of a liquid.",
+  "backlink": "https://news.microsoft.com/transform/can-ai-help-brewers-predict-how-new-beer-varieties-will-taste-carlsberg-says-probably/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "JMDeutsch",
+    "publication_year": 2024,
+    "external_link": "https://news.microsoft.com/transform/can-ai-help-brewers-predict-how-new-beer-varieties-will-taste-carlsberg-says-probably/",
+    "sentiment_score": "0.6369",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

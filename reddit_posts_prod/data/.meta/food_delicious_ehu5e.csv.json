@@ -1,0 +1,16 @@
+{
+  "title": "It's beautiful, and delicious!",
+  "backlink": "http://i.imgur.com/HNVBa.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "eweinhoffer",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/HNVBa.jpg",
+    "sentiment_score": "0.8356",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

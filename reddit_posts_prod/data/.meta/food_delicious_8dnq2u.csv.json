@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] delicious ramen",
+  "backlink": "https://i.redd.it/bgebz52rj2t01.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Pencilvestor",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/bgebz52rj2t01.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

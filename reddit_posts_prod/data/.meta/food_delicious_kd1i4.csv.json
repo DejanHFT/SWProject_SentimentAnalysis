@@ -1,0 +1,16 @@
+{
+  "title": "This little piggy...was delicious!",
+  "backlink": "http://i.imgur.com/kv2py.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Cuddle_Ninja",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/kv2py.jpg",
+    "sentiment_score": "0.5738",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

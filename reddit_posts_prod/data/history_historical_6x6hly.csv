@@ -1,0 +1,33 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"The most famous historical figure born each decade of the second millennium, according to English Wikipedia",Udzu,https://www.reddit.com/r/history/comments/6x6hly/the_most_famous_historical_figure_born_each/,231,1356,"**What is it?**
+
+Inspired by [this Medium post](https://medium.com/@jasoncrease/was-2016-especially-dangerous-for-celebrities-79d79b9fae02), I recently made a graphic showing the **[most famous historical figures born each decade of the second millenium](http://i.imgur.com/X584rPO.jpg)**, using an algorithmic measure of 'fame' based on each figure's English-language Wikipedia page (details below).
+
+After restricting it to people who died at least 20 years ago, I though I'd post it here in case it kicks off a discussion about celebrity, cultural biases and Dead White Men. Or even just some ""how-on-earth is X not in the list?""-type comments.
+
+**How was 'fame' measured?**
+
+The fame metric is a combination of article length, number of article revisions and the median monthly number of pageviews during 2016. The first two measures show some bias towards controversy, while the last shows bias towards recent events such as biopics (though taking the median helps here). Far more significantly, though, English-language Wikipedia itself clearly has plenty of biases. The most obvious is towards Anglo-Saxon (and to a lesser degree, Indian) figures, so at best this can be taken as a representation of fame in the English-speaking world. There are other biases too, from racial and gender issues to a [surprising fascination with wrestling](https://fivethirtyeight.com/datalab/the-100-most-edited-wikipedia-articles/).
+
+**How good is it?**
+
+Overall, I don't think there are any particulalry big surprises in the output, though I'm happy to be corrected on this. The most glaring omissions were typically figures eclipsed by someone who is genuinely, or at least arguably, as famous: Darwin by Lincoln; Einstein, Churchill and Lenin by Stalin; FDR by Hitler; Mozart by Hamilton (a bit dubious, musical notwithstanding); and Columbus by Da Vinci (ditto?).
+
+The most famous person in each century was: *William the Conqueror*, *Genghis Khan*, *Marco Polo*, *Timur*, *Henry VIII*, *William Shakespeare*, *Isaac Newton*, *George Washington*, *Adolf Hitler* and *John F. Kennedy*.
+ 
+**Updates**
+
+*Edit #1*: here's a [tinyimg.io link](http://tinyimg.io/i/xCEH6S7.jpg) for anyone on mobile. Didn't realise that imgur no longer serves direct file links. Sorry!
+
+*Edit #2*: thanks for the gold!
+
+*Edit #3*: as a taster, I took the top 50 people born in the 1750s (according to English Wikipedia) and ran them past a few other Wikipedias. The top 5 for each language were:
+
+* **English**: Hamilton, Antoinette, Mozart, Madison, Louis XVI
+* **French**: Robespierre, Louis XVI, Mozart, Antoinette, La Fayette
+* **German**: Mozart, Schiller, Antoinette, Louis XVI, Robespierre
+* **Spanish**: Mozart, Louis XVI, Antoinette, Robespierre, Louis XVIII
+* **Chinese**: Mozart, Antoinette, Louis XVI, Nelson, Robespierre
+* **Japanese**: Mozart, Antoinette, Louis XVI, Robespierre, Nelson
+
+This makes clear the strong English bias towards US presidents (though to be fair I picked this example precisely for that reason). Note also that these aren't necessarily the most famous people for the decade in the other languages: for those I would need to analyse many more people (including some that weren't listed on English Wikipedia in the first place, especially for e.g. Chinese Wikipedia)."

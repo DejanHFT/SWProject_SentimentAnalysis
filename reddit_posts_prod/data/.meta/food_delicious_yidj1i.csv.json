@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] a delicious falafel plate.",
+  "backlink": "https://i.redd.it/dh8xlk7hh5x91.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "M00nlightMajesty",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/dh8xlk7hh5x91.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

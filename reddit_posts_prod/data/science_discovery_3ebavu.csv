@@ -1,0 +1,31 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Science AMA Series: We’re the Planet Hunters team using crowd-sourcing to search for exoplanets in the Kepler space telescope data. Ask us anything (and join the search)!,PlanetHunters,https://www.reddit.com/r/science/comments/3ebavu/science_ama_series_were_the_planet_hunters_team/,604,4650,"Hello, /r/Science.  We're the Planet Hunters team.  Using citizen science to classify millions of light curves, the equivalent of one person working hundreds of years of 40 hour work weeks, we've discovered more than 100 planet candidates, including three newly discovered planets: a [circumbinary planet](http://arxiv.org/abs/1210.3612) (and the first planet known to exist in a quadruple star system), a [Jupiter-sized planet](http://arxiv.org/abs/1301.0644) in the habitable zone of its host star, and a [low-mass, low-density (""fluffy"") planet](http://arxiv.org/abs/1410.8114) with a relatively strongly varying orbital period.  (See [here](https://www.zooniverse.org/publications?project=planethunters) for more discoveries.)
+
+With the extension of the Kepler space telescope's mission (in the wake of its mechanical issues), we have two ongoing programs.  
+
+1.  Searching through the newest data coming down from the telescope and looking for planets, eclipsing binary stars, and any other interesting objects in the freshest data.
+
+2.  Searching through the original Kepler mission's data (four year's worth) for planets orbiting red (M-class) dwarf stars and looking for planets.  This is intended to determine how common planets are around red dwarf stars, even at long periods (hundreds of days). 
+
+Several members of the team are here to answer your questions:
+
+* Debra Fischer: Professor of astronomy at Yale University and science team leader
+
+* Tabetha Boyajian: Post-doctoral researcher at Yale University
+
+* Ji Wang:  Post-doctoral researcher at Yale University
+
+* Joseph Schmitt: Graduate student at Yale University
+
+We'll also have at least one of our top users be here, Martti (/u/item_space), and maybe others who I hope can provide a different prospective on their work and the community.  We rely heavily on a number of these top users for early identification and vetting (and can be acknowledged in papers or even offered co-authorship).  
+
+Ask us anything, and if you like exoplanets and want to get involved, join us at http://www.planethunters.org/.  You might even be able to get your name on a paper!  (And if that's not your thing, try one of the [many other Zooniverse project here]( https://www.zooniverse.org/projects).
+
+
+P.S.  We just submitted a new paper to a journal this weekl.  Here's a sneak peak about what it's about by the author, Dr. Ji Wang:
+
+""In the new paper, we report the discoveries of transiting planets with the longest orbital periods. What is exciting is that Planet Hunters allows us to probe transiting planets at Mars distance and beyond. These planet candidates usually have 1-2 visible transits during Kepler's 4.5 year life time and are therefore neglected by the automatic Kepler planet search pipeline, which requires at least 3 visible transits. The discoveries from the Planet Hunters project are complementary to the discoveries by the Kepler mission that focuses on planets in and closer than the habitable zones of stars. [This plot](http://i.imgur.com/Y5PnzV8.png) best illustrates this point. Blue points are previous PH detections, and red points are discoveries from the latest paper. We now have more than 260,000 users and have analyzed more than 20,000,000 chunks of 30-day light curves. We expect citizen scientists to find many unexpected discoveries with the K2 data.""
+
+P.P.S.  Between the time this AMA is posted and we start answering, [NASA is announcing a big *Kepler* discovery](http://www.nasa.gov/press-release/nasa-hosts-media-teleconference-to-announce-latest-kepler-discoveries).  Check it out. (And we don't know what the discovery is yet either.)
+
+P.P.P.S.  We'll start answering questions at about 1:00 PM EDT."

@@ -1,0 +1,16 @@
+{
+  "title": "This is an astronomy book from 1869. It has hand written notes and some cool drawings!",
+  "backlink": "https://i.redd.it/975ett94qy451.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Relytt_",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/975ett94qy451.jpg",
+    "sentiment_score": "0.6996",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

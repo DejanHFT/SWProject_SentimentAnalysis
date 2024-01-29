@@ -1,0 +1,16 @@
+{
+  "title": "Finally made some Doughnuts! They're not perfectly shaped but they were delicious!",
+  "backlink": "http://i.imgur.com/ZU1QW3Y.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mydefpony",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/ZU1QW3Y.jpg",
+    "sentiment_score": "0.6652",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

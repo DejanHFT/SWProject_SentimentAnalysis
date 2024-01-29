@@ -28,11 +28,14 @@ def extract_text_from_pdf(pdf_path):
 
 directory_path = r"C:\Users\dejan\Desktop\test stories"
 
-text = "Our implementation is the shit"
+text = ("Our group is shit :("
+        "")
 
 sentiment_score_blob = analyze_sentiment(text)
 sentiment_score_nltk = analyze_sentiment_nltk(text)
 
+
+print(f"Text that got analysed: {text}")
 print(f"Sentiment Score Blob: {sentiment_score_blob}")
 print(f"Sentiment Score NLTK: {sentiment_score_nltk}")
 

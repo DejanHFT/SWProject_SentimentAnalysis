@@ -1,0 +1,16 @@
+{
+  "title": "[I Ate] Delicious Double Cheeseburger",
+  "backlink": "https://i.redd.it/4a8opoewk8k01.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "hungraa",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/4a8opoewk8k01.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

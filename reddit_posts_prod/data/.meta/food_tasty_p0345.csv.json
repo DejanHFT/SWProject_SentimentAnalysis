@@ -1,0 +1,16 @@
+{
+  "title": "That IS a tasty burger!",
+  "backlink": "http://imgur.com/a/CarVH",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "ScottyDaQ",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/a/CarVH",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral",
+    "sentiment_scope": "Title content only"
+  }
+}

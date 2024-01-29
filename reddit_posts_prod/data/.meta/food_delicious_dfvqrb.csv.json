@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] Delicious poutine!",
+  "backlink": "https://i.redd.it/6hofggwdsor31.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "CamTheDog13",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/6hofggwdsor31.jpg",
+    "sentiment_score": "0.6114",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

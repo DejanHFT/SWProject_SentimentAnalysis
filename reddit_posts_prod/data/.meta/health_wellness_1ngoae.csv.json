@@ -1,0 +1,16 @@
+{
+  "title": "Please take my survey about online Health & Wellness",
+  "backlink": "https://docs.google.com/forms/d/15vYQY7JqN2AW-LspCgosQN5_XY2VngyjKnRKfVAmBX4/viewform",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "cambo_soup",
+    "publication_year": 2024,
+    "external_link": "https://docs.google.com/forms/d/15vYQY7JqN2AW-LspCgosQN5_XY2VngyjKnRKfVAmBX4/viewform",
+    "sentiment_score": "0.6369",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

@@ -1,0 +1,17 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+What is the fastest possible probe we could send to Proxima Centauri using today's technology or technology attainable within the next few years?,bamdastard,https://www.reddit.com/r/askscience/comments/4zf8i0/what_is_the_fastest_possible_probe_we_could_send/,54,66,"The news of a planet in the habitable zone of proxima centari got me thinking. If we wanted to send a probe there to do a flyby how long would it take? if we wanted it to stop, how long would that take?
+I assume an ion thruster or resonant cavity thruster would probably be the fastest. 
+
+the fastest current probe out there is Juno, which is traveling at 25 miles per second. if juno were pointed in the right direction it would take a while:
+
+((((2.4943e+13 / 25) / 60) / 60) /24)/365 = 31,000 years
+a ion thruster could accelerate for half the journey, or more then use additional thruster fuel to slow down.
+What is the fastest theoretical span of time we could get something there to send back some photos?
+
+https://www.eso.org/public/news/eso1629/
+
+http://www.foxnews.com/science/2013/10/09/nasa-juno-spacecraft-to-become-fastest-man-made-object-as-it-slingshots-around.html
+
+https://en.wikipedia.org/wiki/Ion_thruster
+
+https://en.wikipedia.org/wiki/RF_resonant_cavity_thruster"

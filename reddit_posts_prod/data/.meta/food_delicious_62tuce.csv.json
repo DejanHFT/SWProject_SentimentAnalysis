@@ -1,0 +1,16 @@
+{
+  "title": "[I Ate] Some delicious sashimi cut from this tuna slab.",
+  "backlink": "http://imgur.com/h76DJZu",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "HxCurt",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/h76DJZu",
+    "sentiment_score": "0.3818",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

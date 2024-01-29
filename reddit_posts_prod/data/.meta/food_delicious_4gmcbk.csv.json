@@ -1,0 +1,16 @@
+{
+  "title": "Hot, fresh and delicious bread!",
+  "backlink": "http://imgur.com/QDhpQZM",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "stonemender",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/QDhpQZM",
+    "sentiment_score": "0.7424",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

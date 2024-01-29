@@ -1,0 +1,16 @@
+{
+  "title": "I can almost smell this delicious pork roast",
+  "backlink": "http://imageshack.us/a/img411/3854/pork.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "luculluskasia",
+    "publication_year": 2024,
+    "external_link": "http://imageshack.us/a/img411/3854/pork.jpg",
+    "sentiment_score": "0.6181",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

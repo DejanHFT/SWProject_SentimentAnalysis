@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] Jamaican Codfish with peppers and onions! Super tasty!",
+  "backlink": "https://i.redd.it/zlmnr5cmhsq91.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "CurbdAppetite",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/zlmnr5cmhsq91.jpg",
+    "sentiment_score": "0.6688",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

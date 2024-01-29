@@ -1,0 +1,48 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"The most famous historical figures of the second millennium by decade, according to Wikipedia [international edition]",Udzu,https://www.reddit.com/r/history/comments/6zmmto/the_most_famous_historical_figures_of_the_second/,401,4936,"**TL;DR**
+
+Pretty pictures [here](http://tinyimg.io/i/GMlV3gK.jpg) [*[mirror](https://i.imgur.com/FAmB5Qk.jpg)*] and [here](http://tinyimg.io/i/mqvpCbp.png) [*[mirror](https://i.imgur.com/DhjWeE6.png)*].
+
+*Update*: also [here](http://tinyimg.io/i/NwNB9ly.jpg) (see comment at end).
+
+*Clarification*: people are listed under the decade they were *born*, not then they were active. 
+
+**Background**
+
+I recently posted a graphic on /r/history showing [the most famous historical figures born each decade of the second millenium](https://www.reddit.com/r/history/comments/6x6hly/the_most_famous_historical_figure_born_each/), using an algorithmic measure of 'fame' based on each figure's English-language Wikipedia page (a combination of article length, number of revisions and pageviews). By far the most common feedback I got was about the strong (and expected) Anglo-Saxon bias inherent in using English Wikipedia. The most glaring example of this was the appearance in the list of some lesser-known US presidents (Van Buren, Buchanan, Grant) at the expense of more famous international figures.
+
+To counterbalance this, I decided to also analyse a number of other large Wikipedias: **French**, **German**, **Spanish**, **Russian**, **Japanese** and **Chinese**. I originally planned to do Arabic too, but being a fair bit smaller than the others it seemed more susceptible to random noise. Rather than scraping new names for each Wikipedia I just reanalysed the names I scraped from the English Wikipedia (using Wikidata to find the corresponding non-English articles), my reasoning being that anyone famous enough to top a decade internationally should at least have a Wikipedia entry in English. To save time I also stopped at 1900 (this sub's 20-year-rule made the 20th century births mostly arbitrary anyway).
+
+**Results**
+
+A comparison of the **[most famous person born each century](http://tinyimg.io/i/mqvpCbp.png)** in different languages nicely shows the various biases (e.g. Goethe/Washington/Napoleon/Bolivar/Pushkin topping their respective languages in the 1700s). The Japanese and Chinese columns also highlight the huge Western bias in the European-language Wikipedias.
+
+An **[updated decade graphic that takes all the languages into account](http://tinyimg.io/i/GMlV3gK.jpg)** also seems a definite improvement. While 71 of the 90 decade-toppers were unchanged from before, the 19 changes are mostly improvements: (old winner on left, new winner on right)
+
+- 1890s: Dwight Eisenhower → Mao Zedong
+- 1850s: Teddy Roosevelt → Vincent Van Gogh
+- 1820s: Ulysses S. Grant → Fyodor Dostoyevsky
+- 1790s: James Buchanan → Alexander Pushkin
+- 1780s: Martin Van Buren → Simón Bolívar
+- 1750s: Alexander Hamilton → Wolfgang Amadeus Mozart
+- 1620s: Blaise Pascal → Molière
+- 1590s: Oliver Cromwell → René Descartes
+- 1570s: Guy Fawkes → Johannes Kepler
+- 1550s: Walter Raleigh → Henry IV of France
+- 1500s: Anne Bolyen → Charles V
+- 1400s: Skanderbeg → Gilles de Rais
+- 1380s: Henry V → Donatello
+- 1350s: Owain Glyndŵr → Dmitry Donskoy
+- 1320s: John Wycliffe → Hongwu Emperor
+- 1240s: Eleanor of Castile → Pope John XXII
+- 1190s: Anthony of Padua → Frederick II
+- 1140s: Nizami Ganjavi → Minamoto no Yoritomo
+- 1110s: Bhaskara II → Manuel I Komnenos
+
+**Update**
+
+As suggested by /u/haveamission, here's **[yet another version](http://tinyimg.io/i/NwNB9ly.jpg)** with the various Wikipedia metrics  normalised to avoid weighting the English Wikipedia higher on account of its greater popularity. The most obvious change is the higher number of French and HRE monarchs and mostly Italian artists.
+
+**Update #2**
+
+For a list of the top 250 people in the combined list, regardless of birth date, see [here](https://www.reddit.com/r/history/comments/6zmmto/the_most_famous_historical_figures_of_the_second/dmxuw1x/) and [here](https://www.reddit.com/r/history/comments/6zmmto/the_most_famous_historical_figures_of_the_second/dmxuwo0/). These use the non-normalised data so still contains some bias towards Anglo-Saxon figures."

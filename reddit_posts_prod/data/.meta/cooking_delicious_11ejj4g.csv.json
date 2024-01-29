@@ -1,0 +1,16 @@
+{
+  "title": "delicious food",
+  "backlink": "https://www.reddit.com/r/Cooking/comments/11ejj4g/delicious_food/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "LeosMnaures",
+    "publication_year": 2024,
+    "external_link": "https://www.reddit.com/r/Cooking/comments/11ejj4g/delicious_food/",
+    "sentiment_score": "0.9347",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title & text content"
+  }
+}

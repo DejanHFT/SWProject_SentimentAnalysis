@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] The most fresh and delicious seafood platter ever!",
+  "backlink": "https://i.reddituploads.com/a70785af5e8149d392dd43de00341194?fit=max&h=1536&w=1536&s=e6df645e9088dcc1dc4b1b2e49cfe76f",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "tekka_maki",
+    "publication_year": 2024,
+    "external_link": "https://i.reddituploads.com/a70785af5e8149d392dd43de00341194?fit=max&h=1536&w=1536&s=e6df645e9088dcc1dc4b1b2e49cfe76f",
+    "sentiment_score": "0.7813",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

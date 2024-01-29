@@ -1,0 +1,16 @@
+{
+  "title": "Researchers formally report the results of the COVID Moonshot project, a fully open-science, patent-free drug discovery campaign to identify, synthesize, and test inhibitors against SARS-CoV-2 main protease, a key antiviral target. This campaign led to the discovery of a potent antiviral compound.",
+  "backlink": "https://www.science.org/doi/10.1126/science.abo7201",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mvea",
+    "publication_year": 2024,
+    "external_link": "https://www.science.org/doi/10.1126/science.abo7201",
+    "sentiment_score": "-0.25",
+    "sentiment_label": "negative",
+    "sentiment_scope": "Title content only"
+  }
+}

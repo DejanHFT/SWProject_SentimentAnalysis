@@ -1,0 +1,16 @@
+{
+  "title": "What is your take on \"Clean Code\"?",
+  "backlink": "https://overreacted.io/goodbye-clean-code/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Mr_LA",
+    "publication_year": 2024,
+    "external_link": "https://overreacted.io/goodbye-clean-code/",
+    "sentiment_score": "0.4019",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

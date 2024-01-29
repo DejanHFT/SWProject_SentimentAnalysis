@@ -1,0 +1,42 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+An Argument Against Moral Fictionalism,ReallyNicole,https://www.reddit.com/r/philosophy/comments/2727db/an_argument_against_moral_fictionalism/,89,50,"**What is Error Theory?**
+
+Moral error theory is generally the view that our moral concepts attempt to refer to objective moral facts about what we ought to do, however, no such facts exist. Therefore, all moral claims are false in the same way that that claims like “pink zebras love Canada” are false. There are no moral facts or pink zebras in virtue of which our claims about them might be true. Along the way, error theorists typically argue against some weaker forms of realism and anti-realism. The most easily-defended error theory position is one that agrees with the robust realism on the concept of morality, but disagrees with her on whether or not such a concept picks out anything in the world.
+
+Error theorists divide broadly into two branches: eliminativists and fictionalists. Eliminativists take from the general error theory that, since our moral claims are all false, we should cease using them, just as you might cease talking about pink zebras upon learning that there are no such things. This may be an awkward position to adopt since it often seems better for us that we hold some moral beliefs. As well, there may be some reason to think that our (false) moral beliefs have been selected by evolutionary forces and for most of the other things we evolved to have (kidneys, opposable thumbs, etc) we seem to have good reasons not to get rid of them. This sort of thinking spawns the fictionalist position. Fictionalists agree with the general error theory that all of our moral claims are false. However, they maintain that we should still pretend that these claims are true because they’re useful concepts that, despite being false, are still nice to have around.
+
+In this thread, I hope to give an argument against the fictionalist position by showing that fictionalists either cannot be consistent in their fictionalism or must admit that their view is self-defeating.
+
+**Moral Neutrality**
+
+There is some debate in moral philosopher over whether or not our metaethical theories can be morally neutral. What it means for a theory to be morally neutral is that it makes no first-order moral claims. So a metaethical theory that entailed something like “you ought morally to take Margaret to dinner,” would fail to be morally neutral because it makes some moral claim, a job usually reserved for first-order moral theories such as utilitarianism. On the other hand, a theory succeeds at being morally neutral if it is equally supportive of all plausible first-order moral claims. I won’t be entering this debate on the more general level, but I hope to show that moral fictionalism fails to be morally neutral.
+
+Recall that fictionalism holds that we should stick with our moral beliefs for the reason that they are useful to us. Now there are two ways in which we can construe the usefulness of moral beliefs. First, these beliefs might be useful to me as an individual and second, they might be useful to society or humankind as a whole. I’ll take the fictionalist to be making the former claim, that moral beliefs are useful to individuals, because the second claim seems to be flirting with moral naturalist theories such as [Railton’s](http://www.reddit.com/r/philosophy/comments/1j2z5f/reading_group_2_week_two_railtons_moral_realism/), theories that the error theorist has conceptually rejected.
+
+Fictionalism, then, holds that we ought to continue believing our first-order moral claims because they are useful to us as individuals. This has the first-order moral consequence, then, that we should not hold false beliefs that are not useful. It follows from this that I should only pretend that some moral claim is true when that claim is useful to me. Here’s one instance of a moral claim that may not be useful to me: imagine that I find myself in a position to torture my rich uncle so that he rewrites his will and leaves everything to me. I’m able to perform the torture in a way that doesn’t leave any evidence and, knowing that my uncle will change the will as soon as I leave, I kill him, again with leaving evidence, and claim my newfound inheritance. Earlier when I was contemplating my plan, I recalled that moral fictionalism was true and that I ought to hold moral beliefs if they are useful to me. But given that my moral belief that murder is wrong is not useful to me in this case, since it prevents me from receiving a sizable sum of money and given my skill at murdering, it’s not the case that I ought to hold this belief. Fictionalism, then, makes the first order moral claim:
+
+(M) It’s not the case that one ought to pretend that murder is wrong if that belief would not be useful.
+
+(M) by itself does not entail that murder is then permissible, especially since error theorists are very careful to avoid the claim that everything is permissible on an error theoretic account. However, it does have implications for your moral behavior, which is, I think, close enough to claiming that morality is permissible in order for fictionalism to hint at that first-order consequence.
+
+**The Dilemma**
+
+There are two arguments that I can see following from this realization that fictionalism fails to be morally neutral. The fictionalist must pick one of them, but neither is helpful to the fictionalist position.
+
+Self-Defeat:
+
+(1) Assume fictionalism for reductio.
+
+(2) If one’s moral beliefs are useful, then she ought to pretend that they are true. [From the definition of fictionalism]
+
+(3) It’s not the case that one ought to pretend her moral beliefs are true if they are not useful. [From 2]
+
+(4) M: It’s not the case that one ought to pretend that murder is wrong if that belief would not be useful. [From 3]
+
+(5) But M is false: so you ought not to murder people even if that murder would be useful. [Premise]
+
+(6) M and ~M [Contradiction to close the reductio]
+
+(7) So, by reductio, fictionalism is false.
+
+Now the obvious way for the fictionalist to get out of this is just to bite the bullet and deny (5). I’ll point out that, from a *prima facie* glance at fictionalism you’d think that the fictionalist should agree with (5), since she thinks that we should hold on to our moral beliefs and that murder is wrong even if you have an opportunity to benefit from it is among our moral beliefs. Still, denying (5) is the best way for the fictionalist to escape the reductio. This leads to the second horn of the dilemma: the fictionalist cannot be thoroughgoing in her fictionalism; she cannot hold all of our pre-theoretic moral beliefs or give the realist everything that he wants in a practical theory. Even worse, she has to give up some very serious moral beliefs: for instance, that any wrongdoing, no matter how heinous it may seem at first, is permissible if you can get away with it. This is a serious blow to her advantage over the eliminativism. An advantage that may have been the only thing keeping error theory in general palatable compared to other weaker forms of anti-realism (e.g. subjectivism, quasi-realism, etc) or weaker forms of realism (e.g. externalist naturalism)"

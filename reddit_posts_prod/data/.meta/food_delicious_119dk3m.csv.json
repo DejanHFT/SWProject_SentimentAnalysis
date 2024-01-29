@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] delicious juicy chicken club sandwiches and fries",
+  "backlink": "https://i.redd.it/4ifxj4y3luja1.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "MelanieLanes",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/4ifxj4y3luja1.jpg",
+    "sentiment_score": "0.5719",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

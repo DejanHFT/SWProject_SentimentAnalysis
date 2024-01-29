@@ -1,0 +1,16 @@
+{
+  "title": "[I ate] tasty fried mozzarella cheese. Nothing else, just good Italian breaded mozzarella deep fried in oil",
+  "backlink": "https://i.redd.it/lyu4p1vq2ve31.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "GialloFranco",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/lyu4p1vq2ve31.jpg",
+    "sentiment_score": "-0.3412",
+    "sentiment_label": "negative",
+    "sentiment_scope": "Title content only"
+  }
+}

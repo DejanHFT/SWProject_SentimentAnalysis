@@ -1,0 +1,16 @@
+{
+  "title": "My coworker picked up his preorder today. He seems to be really excited about it.",
+  "backlink": "http://i.imgur.com/KwFq4Fw.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mental405",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/KwFq4Fw.jpg",
+    "sentiment_score": "0.4005",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

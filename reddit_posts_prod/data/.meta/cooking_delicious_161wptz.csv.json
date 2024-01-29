@@ -1,0 +1,16 @@
+{
+  "title": "A whole bunch of SPAM",
+  "backlink": "https://www.reddit.com/r/Cooking/comments/161wptz/a_whole_bunch_of_spam/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "spcdownrange",
+    "publication_year": 2024,
+    "external_link": "https://www.reddit.com/r/Cooking/comments/161wptz/a_whole_bunch_of_spam/",
+    "sentiment_score": "0.9874",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title & text content"
+  }
+}

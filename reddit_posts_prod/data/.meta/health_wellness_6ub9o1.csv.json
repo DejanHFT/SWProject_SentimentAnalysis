@@ -1,0 +1,16 @@
+{
+  "title": "The Well-Being Map shows meaures of well-being for US counties based on demographics and public tweets",
+  "backlink": "https://map.wwbp.org/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "CBITs_Health",
+    "publication_year": 2024,
+    "external_link": "https://map.wwbp.org/",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral",
+    "sentiment_scope": "Title content only"
+  }
+}

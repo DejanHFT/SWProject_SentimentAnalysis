@@ -1,0 +1,16 @@
+{
+  "title": "Just a Tasty Sammich",
+  "backlink": "http://imgur.com/a/qvkHb",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "gladdit",
+    "publication_year": 2024,
+    "external_link": "http://imgur.com/a/qvkHb",
+    "sentiment_score": "0.0",
+    "sentiment_label": "neutral",
+    "sentiment_scope": "Title content only"
+  }
+}

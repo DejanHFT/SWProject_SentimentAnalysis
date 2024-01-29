@@ -1,0 +1,16 @@
+{
+  "title": "There’s a reason that programmers always want to throw away old code and start over: they think the old code is a mess. They are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming: It’s harder to read code than to write it.",
+  "backlink": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "the_phet",
+    "publication_year": 2024,
+    "external_link": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/",
+    "sentiment_score": "-0.7783",
+    "sentiment_label": "very negative",
+    "sentiment_scope": "Title content only"
+  }
+}

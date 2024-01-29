@@ -1,0 +1,16 @@
+{
+  "title": "Contrary to popular belief, Twitter's algorithm amplifies conservatives, not liberals. Scientists conducted a \"massive-scale experiment involving millions of Twitter users, a fine-grained analysis of political parties in seven countries, and 6.2 million news articles shared in the United States.",
+  "backlink": "https://www.salon.com/2021/12/23/twitter-algorithm-amplifies-conservatives/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Wagamaga",
+    "publication_year": 2024,
+    "external_link": "https://www.salon.com/2021/12/23/twitter-algorithm-amplifies-conservatives/",
+    "sentiment_score": "0.8658",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

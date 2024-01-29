@@ -1,0 +1,16 @@
+{
+  "title": "Some morbid humor for you",
+  "backlink": "http://i.imgur.com/5LioDkE.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "ironman658",
+    "publication_year": 2024,
+    "external_link": "http://i.imgur.com/5LioDkE.jpg",
+    "sentiment_score": "0.2732",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

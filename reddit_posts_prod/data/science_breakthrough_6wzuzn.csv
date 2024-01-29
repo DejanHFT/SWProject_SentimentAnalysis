@@ -1,0 +1,30 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+"Sometimes, something actually comes of the scientific breakthroughs you read about on Reddit. Today the FDA approved the first gene therapy for use in the US - a drug which modifies patient T-cells to hunt down and destroy cancer cells.",SirT6,https://www.reddit.com/r/science/comments/6wzuzn/sometimes_something_actually_comes_of_the/,91,1775,"A common trope in r/science and elsewhere on reddit is that nothing much ever comes of the scientific breakthroughs we read about. Well today, I am happy to tell you that sometimes, if we are lucky, something actually does come of the breakthrough science we read about.
+
+The FDA issued a [historic action today](https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm574058.htm) making the first gene therapy available in the United States, ushering in a new approach to the treatment of cancer and other serious and life-threatening diseases.
+
+The drug is tisagenlecleucel (brand name, Kymriah) and is used to treat pediatric patients with B-cell acute lymphoblastic leukemia who have relapsed on traditional therapies. In clinical studies of this drug, the overall remission rate within three months was 83%. By contrast, traditional treatment options offered remission rates of only 10-25% for these young patients. By almost all accounts, this represents a huge leap in quality of care for these young patients.
+
+The drug itself, a CAR-T, is quite complex. Each dose of Kymriah is a customized treatment created using an individual patient’s own T-cells. The patient’s T-cells are collected and sent to a manufacturing center where they are genetically modified to include a new gene that contains a specific protein (a chimeric antigen receptor or CAR) that directs the T-cells to target and kill leukemia cells that have a specific antigen (CD19) on the surface. Once the cells are modified, they are infused back into the patient to kill the cancer cells.
+
+While powerful, this type of drug is known to have potential for severe side effects. The most dangerous is perhaps cytokine release syndrome (CRS), which is a systemic response to the activation and proliferation of CAR T-cells causing high fever and flu-like symptoms, and for neurological events. Patient deaths from CRS in clinical trials for CAR-Ts has been a very real concern.
+
+The FDA is also expected to approve a [similar CAR-T drug](https://www.reddit.com/r/science/comments/54qbfw/cancer_therapy_that_engineers_patient_white_blood/?) (made by KITE, now a subsidiary of Gilead) for adult lymphoma. In clinical trials of this drug 47% of patients experienced a complete remission, 5x better than current standard of care.
+
+Going forward, there are several things to think about:
+
+- How expensive will these drugs be (likely >$400,000 per treatment)? The cost may be high, but it may also be justified by the high rates of remission and the potential for a cure.
+
+- Are the drugs as good as we think they are? These drugs were not tested in randomized clinical trials. So how much cherry-picking was there of the patients? How will the reported remission rates compare to ""real world"" patients? Even for this drug, the 83% remission rate is a bit misleading since it is not a true intent to treat analysis. Patients whose disease progressed while waiting for the drug to be manufactured were not counted in the final analysis. So in some ways, this trial excluded people with aggressive disease.
+
+- While the drug does well compared to chemotherapy, how will it compare to the plethora of other targeted therapies hitting the market? There are a number of antibody therapies approved or soon to be approved for B-cell malignancies. They all also report high response rates. Will doctors and insurers encourage patients to try these more traditional therapies first before trying a CAR-T therapy?
+
+Also for the sake of posterity, I included some old links where we have seen CAR-T research previously discussed on reddit (note, not all of these are for the drug the FDA approved today, just similar research):
+
+- [Gene therapy cures leukaemia in eight days](https://www.reddit.com/r/science/comments/1b1d4d/gene_therapy_cures_leukaemia_in_eight_days/)
+
+- [Child who had leukemia in complete remission after genetically engineered t-cell therapy out of UPenn](https://www.reddit.com/r/science/comments/1ddsdu/child_who_had_leukemia_in_complete_remission/)
+
+- [Two Infants Treated with Universal Immune Cells Have Their Cancer Vanish - In a medical first, the children were treated with genetically engineered T-cells from another person](https://www.reddit.com/r/Futurology/comments/5q9jzk/two_infants_treated_with_universal_immune_cells/)
+
+- [Cancer therapy that engineers patient white blood cells to recognize and destroy tumors in their body posts impressive phase II result: 47% of patients experienced a complete remission, 5x better than current standard of care](https://www.reddit.com/r/science/comments/54qbfw/cancer_therapy_that_engineers_patient_white_blood/?)"

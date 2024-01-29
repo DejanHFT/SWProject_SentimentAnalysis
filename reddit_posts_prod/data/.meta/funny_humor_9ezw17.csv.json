@@ -1,0 +1,16 @@
+{
+  "title": "My workplace has a sense of humor. Poor Nathan.",
+  "backlink": "https://imgur.com/PSv0x6D.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "SuperPotatoThrow",
+    "publication_year": 2024,
+    "external_link": "https://imgur.com/PSv0x6D.jpg",
+    "sentiment_score": "-0.25",
+    "sentiment_label": "negative",
+    "sentiment_scope": "Title content only"
+  }
+}

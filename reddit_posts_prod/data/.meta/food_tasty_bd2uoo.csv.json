@@ -1,0 +1,16 @@
+{
+  "title": "[i ate] this passion fruit. Slimy but tasty.",
+  "backlink": "https://i.redd.it/y8jnhpp5h8s21.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "AzoreanCheese",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/y8jnhpp5h8s21.jpg",
+    "sentiment_score": "0.3071",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

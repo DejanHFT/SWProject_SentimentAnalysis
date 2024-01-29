@@ -1,0 +1,18 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Electronically Assisted Astronomy tip,Psychaotix,https://www.reddit.com/r/space/comments/p41d4q/electronically_assisted_astronomy_tip/,3,7,"Hi guys, 
+
+So, I started out recently on my journey on astrophotography, and came across something that I haven't really seen elsewhere. 
+
+I'm using a USB Redirector for mount and camera control.
+
+""But Psy, why do this when your mount has WiFi built in?"" I hear you ask. Well, for me, by using a USB solution I gain access to ASCOM control for other apps rather than having  to use the Celestron software. 
+
+So, details... I used a Raspberry Pi 3B with RaspbianOS Lite on it (32Bit) and installed all the updates etc for the unit. Afterwards, I went on over to [here](https://www.incentivespro.com/usb-server.html) and downloaded the version for Raspberry Pi. A little caveat though, you need the kernel headers to actually install the linux server, but fortunately it's pretty easy to do that and the troubleshooting guide helped me do this.
+
+Second, I downloaded the trial version of the windows connector software, and here's where it can (and did) catch me out. The company offers a ""client"" software that is free, but unless you pay for it, it will not connect to the linux server. If you try, it will tell you to download the full version to do so, which is a 15 day trial. For me, it was enough to play around with and get to learn the software.
+
+Ultimately, it cost me AU$129 for a license but to be honest, I think that is reasonable given what it can do. I can sit inside in the warmth of my house and have my rig running pretty much completely wireless. The pi is connected to my local WiFi network, and being powered by a big battery bank.
+
+So why am I making this post? Well, I think others may benefit from it, or at least in the beginning. I don't have the ability to run long cables across my yard, even if it is a fairly small one, and to be fair, it IS nice sittting in the warmth while it's cold outside. It also means I can use my main computer inside for things like stacking as it's way more powerful than the Pi. 
+
+Downsides though, you need a good, solid network connection and I have only tried it with USB 2.0 devices. I can see bandwidth being an issue, especially on the 2.4GHz spectrum while you're trying to run more than one device. This is a solution designed for more corporate environments rather than what I'm using it for."

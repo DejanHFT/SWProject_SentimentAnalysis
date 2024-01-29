@@ -1,0 +1,16 @@
+{
+  "title": "This is beautiful. Makes you think you're dreaming...",
+  "backlink": "http://mashable.com/2015/10/07/whales-approach/",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "haseebhm",
+    "publication_year": 2024,
+    "external_link": "http://mashable.com/2015/10/07/whales-approach/",
+    "sentiment_score": "0.5994",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

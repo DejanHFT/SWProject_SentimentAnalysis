@@ -1,0 +1,16 @@
+{
+  "title": "The most inspiring article I've read about writing. I read it whenever I feel down.",
+  "backlink": "https://fizzle.co/sparkline/there-is-no-that",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mitadaur",
+    "publication_year": 2024,
+    "external_link": "https://fizzle.co/sparkline/there-is-no-that",
+    "sentiment_score": "0.4754",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

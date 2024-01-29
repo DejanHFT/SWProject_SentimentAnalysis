@@ -1,0 +1,22 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+I made a calculator to help people find out how long it takes to realistically achieve their goals.,buckwilson,https://www.reddit.com/r/Fitness/comments/1vkr79/i_made_a_calculator_to_help_people_find_out_how/,89,275,"For a long time I struggled with setting realistic goals for myself when it came to lifting and dieting. I always considered myself just a few months away from my ideal physique. When it didn’t come as quickly as I’d hoped, I started to wonder if maybe something was wrong with me.
+
+After doing a bunch of research that’s probably common knowledge to most people here, I found out that I was severely under-estimating the time it took for me to reach my goals. So I made a calculator and a spreadsheet to track my progress. 
+
+It’s helped me out so much I thought I’d make it a website to help others set realistic goals for themselves. I finished the calculator today and I hope someone finds it helpful. 
+
+I apologize as my language is mainly targeted towards men who are lifting, but women should be able to find it useful as well.
+
+[Timetoswole.com](http://timetoswole.com)
+
+UPDATE: Wow! Thanks everyone for the feedback, and I really hopes this helps. 
+
+**Regarding metric:** Sorry about that! In actuality, since the association between kg and lbs is linear, just plug in your kg numbers and it will work just as well for you. The pre-filled numbers are for lbs so make sure you change those as you go down. I’ll add a kg / lbs swapper in there for sure to alleviate confusion.
+
+**Regarding genetic potential:** It’s true this calculator is a bit “dumb” in that if you say you want to achieve numbers that may not, theoretically, be possible, it will still give you a time. I could build in some limitations but I’d rather keep the calculations simple and just provide the user with as much information as possible to decide things for themselves.
+
+**Regarding negative numbers:** I need to fix a bug where the calculator will give negative numbers in the case that you currently have more lean mass than your goal. If this is the case: congratulations! Also be sure and check that your BF% is correct as it’s really easy to underestimate this number.
+
+**Regarding massive times to goal:** Don’t lose hope! Strength training is a huge time investment and will better your life in every way. Also note that if you are 25%+ BF% feel free to crank that fat loss number up. According to the articles linked, cutting is highly efficient as long as you are training for strength so you can lose 2, 3 pounds a week with minimal muscle loss so that should help. 
+
+UPDATE 2: Just updated the algorithm so if you’re already too swole or too skinny then it won’t spit out negative numbers (I hope). There is an edge where you’re right on the border of swoleness and cutting will drive you below your goal lean mass. I’m working on this now. Keep the feedback coming!"

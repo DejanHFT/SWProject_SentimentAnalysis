@@ -1,0 +1,16 @@
+{
+  "title": "Project Gutenberg is the world's largest digital library of over 57,000 free ebooks. Contains some of the most important literary works in history.",
+  "backlink": "https://www.gutenberg.org",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "Squidward-DrownedGod",
+    "publication_year": 2024,
+    "external_link": "https://www.gutenberg.org",
+    "sentiment_score": "0.659",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

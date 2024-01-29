@@ -1,0 +1,16 @@
+{
+  "title": "“AI paediatrician” makes diagnoses from records better than some doctors: Researchers trained an AI on medical records from 1.3 million patients. It was able to diagnose certain childhood infections with between 90 to 97% accuracy, outperforming junior paediatricians, but not senior ones.",
+  "backlink": "https://www.newscientist.com/article/2193361-ai-paediatrician-makes-diagnoses-from-records-better-than-some-doctors/?T=AU",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mvea",
+    "publication_year": 2024,
+    "external_link": "https://www.newscientist.com/article/2193361-ai-paediatrician-makes-diagnoses-from-records-better-than-some-doctors/?T=AU",
+    "sentiment_score": "0.3612",
+    "sentiment_label": "positive",
+    "sentiment_scope": "Title content only"
+  }
+}

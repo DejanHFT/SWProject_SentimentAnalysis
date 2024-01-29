@@ -1,0 +1,147 @@
+Title,Author,URL,Number of Comments,Upvotes,Text Content
+Using metric units for astronomy,oscarboom,https://www.reddit.com/r/space/comments/p8eo2l/using_metric_units_for_astronomy/,10,8,"I have been maintaining this chart of metric values for use in understanding the large distances of outer space.   Metric is perfect for providing an easy understanding of both absolute and relative distances in astronomy because it provides distance units for every needed scale and an easy way to go up and down the scale.
+
+The most important part of ""thinking in metric"", as I call it, is to learn the metric SI prefixes along with their matching powers of 10 (all divisible by 3) from section 1. So it is important to know and use not just kilometers but all of the metric SI distance units for kilometers and higher.   It is much easier to remember that an Astronomical Unit is 150 gigameters than 1.5 x 10^8 kilometers or 1.5 x 10^11 meters.  You probably already know about ""mega"", ""giga"", and ""tera"" if you understand computers.  Section 2 has the conversion values from metric units into common units like light years, parsecs, and astronomical units.  And section 3 is helpful in developing an intuitive feel for how large the various metric distance units are.  
+
+How long are the metric units for large distances?  A megameter is nearly the distance from NYC to Chicago.  A gigameter is about 2.5x the distance to the moon.  A terameter is about 2/3 of the distance from the Sun to Saturn and light travels at 1.08 terameters per hour.  A petameter will get you into the near side of the Oort Cloud.   An exameter is 25x the distance to Alpha Centauri and 1/19 the thickness of the galactic disk.  A zetameter is the diameter of our entire galaxy.  And a yottameter is the diameter of the Virgo Supercluster which includes our galaxy.  
+
+So kilometers and megameters are useful scales for orbits around planets and lunar distances.  Gigameters and terameters are useful scales for planet and solar system object distances.  Petameters are useful for interstellar distances.  Exameters are useful for larger galaxy structures and very distant stars.  Zettameters is a useful scale for understanding distances between galaxies.  And yottameters is a useful scale for galactic superclusters and larger structures.
+ 
+
+__I. Metric distance units__ 
+  
+- kilometer (km) = 1m x 10^3  (one thousand meters)
+- megameter (Mm) = 1m x 10^6   (one million meters)
+- gigameter (Gm) = 1m x 10^9   (one billion meters)
+- terameter (Tm) = 1m x 10^12   (one trillion meters)
+- petameter (Pm) = 1m x 10^15  (one quadrillion meters)
+- exameter (Em) = 1m x 10^18  (one quintillion meters)
+- zettameter (Zm) = 1m x 10^21  (one sextillion meters)
+- yottameter (Ym) = 1m x 10^24  (one septillion meters)
+  
+  
+__II. Conversions to non metric units__  
+  
+- 1 Megaparsec (Mpc)         = 30.86 (~31) zettameters
+- 1 __Parsec__ (pc)          	= 30.86 (~31) petameters  
+- 1 __Light Year__ (ly)    	        = 9.46 (~9.5) petameters  
+- 1 Light Day                    = 26 terameters
+- 1 Light Hour                    = 1.08 terameters
+- 1 __Astronomical Unit__ (au)   = 150 gigameters  
+- 1 Light Minute                  = 18 gigameters
+- 1 Light Second 		 = 300 megameters  
+- 1 Mile			         = 1.6 kilometers  
+- 1 Yard                          = 0.915 meters
+  
+  
+__III.  Some metric distance values__  
+
+__A. Surface Distances__
+
+- 329 kilometers = Distance from New York to Washington DC   
+- 1.15 megameters = Distance from New York to Chicago  
+- 3 megameters = Circumference of Ceres
+- 4 megameters = Distance from New York to Los Angelos  
+- 11 megameters = Circumference of the moon
+- 21 megameters = Circumference of Mars
+- 40 megameters = Circumference of Earth
+
+__B. Object Sizes__
+
+- 946 kilometers = Diameter of Ceres
+- 3.5 megameters = Diameter of the moon  
+- 4.9 megameters = Diameter of Mercury
+- 5.1 megameters = Diameter of Titan
+- 6.8 megameters = Diameter of Mars  
+- 12.1 megameters = Diameter of Venus
+- 12.7 megameters = Diameter of Earth  
+- 50 megameters = Diameter of Neptune
+- 51 megameters = Diameter of Uranus
+- 120 megameters = Diameter of Saturn
+- 143 megameters = Diameter of Jupiter  
+- 223 megameters = Diameter of Wolf 359
+- 1.4 gigameters = Diameter of sun  
+- 35.3 gigameters = Diameter of Arcturus
+- 1.68 terameters = Diameter of Betelgeuse
+
+__C. Earth Altitudes__
+ 
+- 6 to 20 kilometers = Troposphere altitude 
+- 11.5 to 12 kilometers = Cruising altitude for commercial planes
+- 20 to 50 kilometers = Stratosphere altitude
+- 37.6 kilometers = Self propelled jet aircraft flight ceiling
+- 50 to 85 kilometers = Mesosphere altitude
+- 85 to 700 kilometers = Thermosphere altitude
+- 100 kilometers = Altitude to reach sub-orbital space flight (Karman line) 
+- 160 kilometers to 2 megameters = Low Earth Orbit  
+- 400-420 kilometers = ISS Space Station altitude 
+- 640 kilometers to 58 megameters - Altitude of Van Allen radiation belt
+- 700 kilometers to 10 megameters = Exosphere altitude
+- 2 to 35.786 megameters = Medium Earth Orbit
+- 35.786 megameters = Altitude for Geosynchronous Orbit of Earth   
+- 384 megameters = Distance from moon to Earth  
+
+
+__D. Outer Space Distances__
+
+- 58 gigameters = Distance from Mercury to sun  
+- 104 gigameters = Distance from Venus to sun  
+- 150 gigameters = Distance from Earth to sun (1au)  
+- 228 gigameters = Distance from Mars to sun  
+- 413 gigameters = Average distance from Ceres to sun
+- 778 gigameters = Distance from Jupiter to sun  
+- 1.43 terameters = Distance from Saturn to sun  
+- 3 terameters = Distance from Uranus to sun  
+- 4.5 terameters = Distance from Neptune to sun  
+- 5.9 terameters = Average distance from Pluto to sun
+- 6.5 terameters = Average distance from Haumea to sun
+- 10 terameters = Average distance from Eris to sun
+- 18 terameters = Radius of solar system (Heliopause)  
+- 23 terameters = Distance from Voyager 1 to sun (in 2021)  
+- 141 terameters = Farthest distance of dwarf planet Sedna from sun
+- 300 terameters to 15 petameters = Estimated range of Oort Cloud  
+- 41 petameters = Distance to Alpha Centauri  
+- 57 petameters = Distance to Barnard's Star
+- 74 petameters = Distance to Wolf 359
+- 81 petameters = Distance to Sirius  
+- 99 petameters = Distance to Epsilon Eridani
+- 108 petameters = Distance to Procyon
+- 108 petameters = Distance to 61 Cygni
+- 113 petameters = Distance to Tau Ceti
+- 158 petameters = Distance to Altair
+- 237 petameters = Distance to Vega
+- 322 petameters = Distance to Pollux
+- 347 petameters = Distance to Arcturus  
+- 5.25 exameters = Distance to Antares
+- 6.08 exameters = Distance to Betelgeuse  
+- 8.18 exameters = Distance to Rigel
+- 19 exameters = Thickness of galactic disk
+- 33 exameters = Thickness of our galactic spiral arm (Orion)  
+- 38 exameters = Distance to inner spiral arm Sagittarius
+- 60 exameters = Distance to outer spiral arm Perseus
+- 66 exameters = Diameter of SMC galaxy
+- 236 exameters = Distance from sun to center of Milky Way  
+- 617 exameters = Distance to Sagittarius Dwarf galaxy
+- 1 zettameter = Diameter of Milky Way  
+- 1.5 zettameters = Distance to LMC galaxy  
+- 1.85 zettameters = Distance to Ursa Minor Dwarf galaxy
+- 1.88 zettameters = Distance to SMC galaxy
+- 2.74 zettameters = Distance to Sculptor Dwarf galaxy
+- 24 zettameters = Distance to Andromeda  
+- 26 zettameters = Distance to Triangulum  
+- 57 zettameters = Estimated distance to Caldwell 70 (Sculptor Pinwheel)
+- 61.5 zettameters = Distance to Whale Galaxy (NGC 55)
+- 93 zettameters = Distance to Maffei Group of galaxies
+- 120 zettameters = Distance to Sculptor Group of galaxies
+- 197 zettameters = Distance to Pinwheel Galaxy (M101)
+- 617 zettameters = Distance to Virgo Cluster  
+- 1 yottameter = Diameter of (Local Inner) Virgo Supercluster
+- 1.51 to 2.46 yottameters = Length of galactic filaments  
+- 1.7 yottameters = Distance to Perseus Supercluster
+- 2.8 yottameters = Distance to Coma Supercluster
+- 4.73 yottameters = Length of (Local Outer) Laniakea Supercluster  
+- 9.46 yottameters = Distance to Sloan Great Wall
+- 13 yottameters = Length of Sloan Great Wall
+- 95 yottameters = Length of Hercules–Corona Borealis Great Wall
+- 142 yottameters = Distance to Hercules–Corona Borealis Great Wall
+- 880 yottameters = Diameter of observable universe"

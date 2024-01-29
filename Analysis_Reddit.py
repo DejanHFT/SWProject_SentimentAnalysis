@@ -4,11 +4,13 @@ import csv
 import json
 import glob
 
+
 def analyze_sentiment_nltk(text):
     sid = SentimentIntensityAnalyzer()
     sentiment_scores = sid.polarity_scores(text)
     compound_score = sentiment_scores['compound']
     return compound_score
+
 
 def analyze_sentiment_for_directory(directory_path):
     # Use glob to directly fetch all CSV files in the specified directory
@@ -21,6 +23,7 @@ def analyze_sentiment_for_directory(directory_path):
     # Iterate through CSV files
     for csv_file_path in csv_files:
         analyze_sentiment_for_csv(csv_file_path)
+
 
 def analyze_sentiment_for_csv(csv_file_path):
     # Read the CSV file and analyze sentiment for each post
@@ -38,6 +41,7 @@ def analyze_sentiment_for_csv(csv_file_path):
 
             # Combine title and text content for sentiment analysis
             combined_text = f'{title} {text_content}' if text_content != "No text content" else title
+            sentiment_scope = "Title & text content" if text_content != "No text content" else "Title content only"
 
             # Analyze sentiment using NLTK
             sentiment_score = analyze_sentiment_nltk(combined_text)
@@ -59,7 +63,8 @@ def analyze_sentiment_for_csv(csv_file_path):
                     "publication_year": 2024,  # Modify as needed
                     "external_link": url,
                     "sentiment_score": str(sentiment_score),  # Convert to string
-                    "sentiment_label": get_sentiment_label(sentiment_score)  # Function to get sentiment label
+                    "sentiment_label": get_sentiment_label(sentiment_score),  # Function to get sentiment label
+                    "sentiment_scope": sentiment_scope  # Added sentiment_scope
                 }
             }
 
@@ -68,6 +73,7 @@ def analyze_sentiment_for_csv(csv_file_path):
                 json.dump(json_data, json_file, ensure_ascii=False, indent=2)
 
             print(f'Sentiment data saved to {json_file_path}')
+
 
 # Function to get sentiment label based on the sentiment score
 def get_sentiment_label(sentiment_score):
@@ -86,6 +92,8 @@ def get_sentiment_label(sentiment_score):
     else:
         return "very negative"
 
-# Example usage:
-directory_path = 'reddit_posts/data'
+
+# Usage:
+directory_path = 'reddit_posts_prod/data'
+
 analyze_sentiment_for_directory(directory_path)

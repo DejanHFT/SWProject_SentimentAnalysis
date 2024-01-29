@@ -1,0 +1,16 @@
+{
+  "title": "beautiful video from iceland",
+  "backlink": "http://www.youtube.com/watch?v=Lzymnd4MbrQ&feature=player_embedded",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "mcgroin",
+    "publication_year": 2024,
+    "external_link": "http://www.youtube.com/watch?v=Lzymnd4MbrQ&feature=player_embedded",
+    "sentiment_score": "0.5994",
+    "sentiment_label": "very positive",
+    "sentiment_scope": "Title content only"
+  }
+}

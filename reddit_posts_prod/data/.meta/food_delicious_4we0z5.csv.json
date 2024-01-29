@@ -1,0 +1,16 @@
+{
+  "title": "This is the result of asking for a pizza that is 'crazy yet delicious'.",
+  "backlink": "https://i.redd.it/ne98p6ibcodx.jpg",
+  "language": "en",
+  "classifications": [
+    "reddit post"
+  ],
+  "properties": {
+    "author": "PHIL-yes-PLZ",
+    "publication_year": 2024,
+    "external_link": "https://i.redd.it/ne98p6ibcodx.jpg",
+    "sentiment_score": "-0.34",
+    "sentiment_label": "negative",
+    "sentiment_scope": "Title content only"
+  }
+}
